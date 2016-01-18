@@ -1,6 +1,5 @@
 
 <entities file_version="0.1">
-	<entity filename="" IsSimulatedSky="true" rainStrength="0" snowStrength="0" class="EntitySky" name="sky"/>
 	<entity class="EntityDesktop" name="desktop">
 		<inventory>
 			<slot count="1" id="10052">{tooltip="作者的话","欢迎来到我的世界#请仔细阅读规则#=到创意论坛来支持我的作品哦~=#[[http://www.paracraft.cn/][点我进入论坛]]",}
@@ -9,5 +8,6 @@
 			</slot>
 		</inventory>
 	</entity>
-	<entity bz="19197" bx="19196" name="player_spawn_point" class="EntityHomePoint" item_id="20002" by="5"/>
+	<entity filename="" IsSimulatedSky="true" rainStrength="0" snowStrength="0" class="EntitySky" name="sky"/>
+	<entity bz="19200" bx="19204" name="player_spawn_point" class="EntityHomePoint" item_id="20002" by="5"/>
 </entities>
