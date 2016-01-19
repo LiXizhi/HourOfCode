@@ -1,10 +1,10 @@
 # 一小时动画制作
-![截图](preview.jpg)
+![截图](https://github.com/LiXizhi/HourOfCode/raw/master/preview.jpg)
 
 ## 软件安装
 * 下载并安装[Paracraft](http://www.paracraft.cn)
-* 下载教学世界[zip文件](/archive/master.zip)
-* 运行`Paracraft`，将`zip文件`拖动到Paracraft窗口中可打开教学世界
+* 下载教学世界[zip文件](https://github.com/LiXizhi/HourOfCode/archive/master.zip)
+* 运行`Paracraft`，将下载的`zip文件`拖动到Paracraft窗口中可打开教学世界
 
 
 ## 教程
