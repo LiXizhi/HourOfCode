@@ -1,17 +1,18 @@
 
-<entity bz="19160" motionZ="0" anim="Break" displayName="0" class="Player" item_id="30002" onGround="true" bx="19200" facing="-1.6652941703796" motionX="0" by="5" name="default" motionY="0">
-	<inventory handtool_bagpos="3">
+<entity bz="19164" motionZ="0" anim="RaiseTerrain" displayName="0" class="Player" item_id="30002" onGround="true" bx="19247" facing="-2.0555424690247" motionX="0" by="5" name="default" motionY="0">
+	<inventory handtool_bagpos="7">
 		<slot count="1" id="112"/>
 		<slot count="1" id="81"/>
-		<slot count="1" id="155"/>
+		<slot count="7" id="27"/>
 		<slot count="1" id="98"/>
 		<slot count="1" id="70"/>
-		<slot count="1" id="95"/>
+		<slot count="1" id="27"/>
+		<slot count="1" id="27"/>
 		<slot count="1" id="62"/>
-		<slot count="1" id="133"/>
-		<slot count="1" id="171"/>
+		<slot count="1" id="211">{tooltip=".\r\n【右键】点击按钮\r\n继续学习",}
+		</slot>
 		<slot count="3" id="101"/>
-		<slot count="6" id="189"/>
+		<slot count="7" id="189"/>
 		<slot count="1" id="197"/>
 		<slot count="1" id="201"/>
 		<slot count="1" id="10"/>
@@ -20,14 +21,14 @@
 		<slot count="5" id="70"/>
 		<slot count="2" id="254">{tooltip="blocktemplates/man.bmax",}
 		</slot>
-		<slot count="4" id="27"/>
-		<slot count="8" id="62"/>
-		<slot count="6" id="23"/>
+		<slot count="6" id="27"/>
+		<slot count="10" id="62"/>
+		<slot count="9" id="23"/>
 		<slot count="1" id="254">{tooltip="blocktemplates/mouth.bmax",}
 		</slot>
-		<slot count="7" id="19"/>
-		<slot count="8" id="105"/>
-		<slot count="4" id="255"/>
+		<slot count="9" id="19"/>
+		<slot count="10" id="105"/>
+		<slot count="9" id="255"/>
 		<slot count="2" id="211"/>
 		<slot count="1" id="94"/>
 		<slot count="5" id="21"/>
@@ -36,8 +37,8 @@
 		<slot count="1" id="211">{tooltip=".\r\nParacraft创意空间\r\n.\r\n基础操作",}
 		</slot>
 		<slot count="1" id="10059"/>
-		<slot count="2" id="212"/>
-		<slot count="1" id="102"/>
+		<slot count="6" id="212"/>
+		<slot count="2" id="102"/>
 		<slot count="1" id="211">{tooltip=".\r\n练习创建一个小房子\r\n【E】键打开物品栏",}
 		</slot>
 		<slot count="1" id="211">{tooltip="·\r\n【Ctrl+F1】\r\n帮助界面",}

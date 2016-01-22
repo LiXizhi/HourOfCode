@@ -1,48 +1,98 @@
 
 <entities file_version="0.1">
-	<entity bz="19190" bx="19183" pz="0" py="0" class="EntityBlockBone" by="13" item_id="253" px="0"/>
-	<entity bz="19188" bx="19184" pz="0" py="0" class="EntityBlockBone" by="13" item_id="253" px="0"/>
-	<entity bz="19254" bx="19184" pz="0" py="0" class="EntityBlockBone" by="17" item_id="253" px="0"/>
+	<entity bz="19192" bx="19183" pz="0" py="0" class="EntityBlockBone" by="13" item_id="253" px="0"/>
+	<entity bz="19255" bx="19184" pz="0" py="0" class="EntityBlockBone" by="17" item_id="253" px="0"/>
 	<entity bz="19255" bx="19186" pz="0" py="0" class="EntityBlockBone" by="17" item_id="253" px="0"/>
-	<entity bz="19222" bx="19189" pz="0" py="0" class="EntityBlockBone" by="7" item_id="253" px="0"/>
+	<entity bz="19192" bx="19184" pz="0" py="0" class="EntityBlockBone" by="13" item_id="253" px="0"/>
+	<entity bz="19223" bx="19189" pz="0" py="0" class="EntityBlockBone" by="7" item_id="253" px="0"/>
+	<entity bz="19256" bx="19184" pz="0" py="0" class="EntityBlockBone" by="10" item_id="253" px="0">
+		<cmd>leg
+		</cmd>
+	</entity>
+	<entity bz="19224" bx="19189" pz="0" py="0" class="EntityBlockBone" by="7" item_id="253" px="0"/>
+	<entity bz="19223" bx="19186" pz="0" py="0" class="EntityBlockBone" by="7" item_id="253" px="0"/>
+	<entity bz="19254" bx="19184" pz="0" py="0" class="EntityBlockBone" by="10" item_id="253" px="0"/>
+	<entity bz="19253" bx="19184" pz="0" py="0" class="EntityBlockBone" by="17" item_id="253" px="0"/>
+	<entity bz="19190" bx="19183" pz="0" py="0" class="EntityBlockBone" by="8" item_id="253" px="0"/>
+	<entity bz="19190" bx="19183" pz="0" py="0" class="EntityBlockBone" by="13" item_id="253" px="0"/>
+	<entity bz="19276" bx="19237" pz="0" py="0" class="EntityBlockBone" by="7" item_id="253" px="0"/>
+	<entity bz="19221" bx="19186" pz="0" py="0" class="EntityBlockBone" by="7" item_id="253" px="0"/>
 	<entity bz="19188" bx="19183" pz="0" py="0" class="EntityBlockBone" by="13" item_id="253" px="0"/>
 	<entity bz="19187" bx="19183" pz="0" py="0" class="EntityBlockBone" by="8" item_id="253" px="0">
 		<cmd>leg
 		</cmd>
 	</entity>
-	<entity bz="19253" bx="19184" pz="0" py="0" class="EntityBlockBone" by="17" item_id="253" px="0"/>
-	<entity bz="19256" bx="19184" pz="0" py="0" class="EntityBlockBone" by="10" item_id="253" px="0">
-		<cmd>leg
-		</cmd>
-	</entity>
-	<entity bz="19187" bx="19183" pz="0" py="0" class="EntityBlockBone" by="7" item_id="253" px="0"/>
-	<entity bz="19256" bx="19184" pz="0" py="0" class="EntityBlockBone" by="9" item_id="253" px="0"/>
-	<entity bz="19221" bx="19186" pz="0" py="0" class="EntityBlockBone" by="7" item_id="253" px="0"/>
+	<entity bz="19222" bx="19189" pz="0" py="0" class="EntityBlockBone" by="7" item_id="253" px="0"/>
 	<entity bz="19193" bx="19183" pz="0" py="0" class="EntityBlockBone" by="8" item_id="253" px="0">
 		<cmd>leg
 		</cmd>
 	</entity>
-	<entity bz="19224" bx="19189" pz="0" py="0" class="EntityBlockBone" by="7" item_id="253" px="0"/>
-	<entity bz="19255" bx="19184" pz="0" py="0" class="EntityBlockBone" by="17" item_id="253" px="0"/>
-	<entity bz="19190" bx="19183" pz="0" py="0" class="EntityBlockBone" by="8" item_id="253" px="0"/>
+	<entity bz="19225" bx="19186" pz="0" py="0" class="EntityBlockBone" by="7" item_id="253" px="0"/>
+	<entity bz="19253" bx="19186" pz="0" py="0" class="EntityBlockBone" by="17" item_id="253" px="0"/>
+	<entity bz="19252" bx="19184" pz="0" py="0" class="EntityBlockBone" by="9" item_id="253" px="0"/>
+	<entity bz="19256" bx="19184" pz="0" py="0" class="EntityBlockBone" by="9" item_id="253" px="0"/>
+	<entity bz="19276" bx="19237" pz="0" py="0" class="EntityBlockBone" by="9" item_id="253" px="0"/>
+	<entity bz="19188" bx="19184" pz="0" py="0" class="EntityBlockBone" by="13" item_id="253" px="0"/>
+	<entity bz="19187" bx="19183" pz="0" py="0" class="EntityBlockBone" by="7" item_id="253" px="0"/>
+	<entity bz="19193" bx="19183" pz="0" py="0" class="EntityBlockBone" by="7" item_id="253" px="0"/>
+	<entity bz="19254" bx="19184" pz="0" py="0" class="EntityBlockBone" by="17" item_id="253" px="0"/>
 	<entity bz="19252" bx="19184" pz="0" py="0" class="EntityBlockBone" by="10" item_id="253" px="0">
 		<cmd>leg
 		</cmd>
 	</entity>
-	<entity bz="19223" bx="19189" pz="0" py="0" class="EntityBlockBone" by="7" item_id="253" px="0"/>
-	<entity bz="19252" bx="19184" pz="0" py="0" class="EntityBlockBone" by="9" item_id="253" px="0"/>
-	<entity bz="19192" bx="19184" pz="0" py="0" class="EntityBlockBone" by="13" item_id="253" px="0"/>
-	<entity bz="19225" bx="19186" pz="0" py="0" class="EntityBlockBone" by="7" item_id="253" px="0"/>
-	<entity bz="19254" bx="19184" pz="0" py="0" class="EntityBlockBone" by="10" item_id="253" px="0"/>
-	<entity bz="19253" bx="19186" pz="0" py="0" class="EntityBlockBone" by="17" item_id="253" px="0"/>
-	<entity bz="19192" bx="19183" pz="0" py="0" class="EntityBlockBone" by="13" item_id="253" px="0"/>
-	<entity bz="19193" bx="19183" pz="0" py="0" class="EntityBlockBone" by="7" item_id="253" px="0"/>
-	<entity bz="19223" bx="19186" pz="0" py="0" class="EntityBlockBone" by="7" item_id="253" px="0"/>
+	<entity bz="19133" bx="19225" class="EntityCommandBlock" item_id="212" by="4">
+		<cmd><![CDATA[/tip 即将开放
+/lookat -1 ~ ~]]>
+		</cmd>
+	</entity>
 	<entity bz="19140" bx="19207" class="EntityCommandBlock" item_id="212" by="5">
 		<cmd><![CDATA[/tip Ctrl+F1打开帮助界面
 /tip 选择“新手教程”，完成里面的任务
 /t 2 /menu help.help.tutorial]]>
 		</cmd>
+	</entity>
+	<entity bz="19125" bx="19225" class="EntityCommandBlock" item_id="212" by="4">
+		<cmd><![CDATA[/goto 19245 4 19165
+/lookat -1 ~ ~]]>
+		</cmd>
+	</entity>
+	<entity bz="19137" bx="19225" class="EntityCommandBlock" item_id="212" by="4">
+		<cmd><![CDATA[/goto 19202 4 19198
+/lookat -1 ~ ~]]>
+		</cmd>
+	</entity>
+	<entity bz="19129" bx="19225" class="EntityCommandBlock" item_id="212" by="4">
+		<cmd><![CDATA[/tip 即将开放
+/lookat -1 ~ ~]]>
+		</cmd>
+	</entity>
+	<entity bz="19121" bx="19225" class="EntityCommandBlock" item_id="212" by="4">
+		<cmd>/open http://www.paracraft.cn/archives/category/tutorial
+		</cmd>
+	</entity>
+	<entity bz="19170" bx="19240" class="EntityCommandBlock" item_id="212" by="5">
+		<cmd>/show desktop.builder.static
+		</cmd>
+	</entity>
+	<entity bz="19160" bx="19200" class="EntityCommandBlock" item_id="212" by="5">
+		<cmd><![CDATA[/goto 19232 4 19127
+/lookat -1 ~ ~]]>
+		</cmd>
+	</entity>
+	<entity bz="19278" bx="19240" class="EntityCommandBlock" item_id="212" by="5">
+		<cmd><![CDATA[/select -all 19153 6 19262 (1 5 4)
+/set -p modelname=Please enter bmax model filename:]]>
+		</cmd>
+	</entity>
+	<entity bz="19181" bx="19240" class="EntityMovieClip" item_id="228" by="5">
+		<cmd>/t 20 /end
+		</cmd>
+		<inventory>
+			<slot count="1" id="10061">{timeseries={has_collision={times={0,20000,},data={1,1,},ranges={{1,2,},},type="Discrete",name="has_collision",},lookat_z={times={0,20000,},data={19966.29688,19966.29688,},ranges={{1,2,},},type="Linear",name="lookat_z",},eye_liftup={times={0,20000,},data={0.03602,0.03602,},ranges={{1,2,},},type="Linear",name="eye_liftup",},lookat_y={times={0,20000,},data={-127.08333,-127.08333,},ranges={{1,2,},},type="Linear",name="lookat_y",},eye_dist={times={0,20000,},data={8.74504,8.74504,},ranges={{1,2,},},type="Linear",name="eye_dist",},lookat_x={times={0,20000,},data={19954.39649,19954.39649,},ranges={{1,2,},},type="Linear",name="lookat_x",},eye_rot_y={times={0,20000,},data={-3.13656,-3.13656,},ranges={{1,2,},},type="LinearAngle",name="eye_rot_y",},is_fps={times={0,20000,},data={0,0,},ranges={{1,2,},},type="Discrete",name="is_fps",},},}
+			</slot>
+			<slot count="1" id="10063">{timeseries={music={times={},data={},ranges={},type="Discrete",name="music",},movieblock={times={},data={},ranges={},type="Discrete",name="movieblock",},tip={times={},data={},ranges={},type="Discrete",name="tip",},time={times={},data={},ranges={},type="Linear",name="time",},cmd={times={0,2647,5226,7703,10214,12760,15203,17748,},data={"/show desktop.builder.static","/show desktop.builder.movie","/show desktop.builder.character","/show desktop.builder.playerbag","/show desktop.builder.gear","/show desktop.builder.deco","/show desktop.builder.tool","/show desktop.builder.env",},ranges={{1,8,},},type="Discrete",name="cmd",},blocks={times={},data={},ranges={},type="Discrete",name="blocks",},text={times={},data={},ranges={},type="Discrete",name="text",},},}
+			</slot>
+		</inventory>
 	</entity>
 	<entity bz="19264" bx="19184" class="EntityMovieClip" item_id="228" by="5">
 		<cmd>/t 24 /end
@@ -74,23 +124,49 @@
 			</slot>
 		</inventory>
 	</entity>
-	<entity bz="19153" bx="19197" class="EntityMovieClip" item_id="228" by="4">
-		<cmd>/t 5 /end
+	<entity bz="19238" bx="19183" class="EntityMovieClip" item_id="228" by="5">
+		<cmd>/t 10 /end
 		</cmd>
 		<inventory>
-			<slot count="1" id="10063">{timeseries={music={times={},data={},ranges={},type="Discrete",name="music",},movieblock={times={},data={},ranges={},type="Discrete",name="movieblock",},tip={times={},data={},ranges={},type="Discrete",name="tip",},cmd={times={},data={},ranges={},type="Discrete",name="cmd",},time={times={},data={},ranges={},type="Linear",name="time",},blocks={times={},data={},ranges={},type="Discrete",name="blocks",},text={times={0,},data={{textpos="center",textanim="fadeinout",text="恭喜！你掌握了基本的操作#下面继续学习高级操作",},},ranges={{1,1,},},type="Discrete",name="text",},},}
+			<slot count="1" id="10061">{timeseries={is_fps={times={0,10000,},data={0,0,},ranges={{1,2,},},type="Discrete",name="is_fps",},lookat_z={times={0,10000,},data={20035.69791,20025.70649,},ranges={{1,2,},},type="Linear",name="lookat_z",},eye_liftup={times={0,10000,},data={0.50085,0.50085,},ranges={{1,2,},},type="Linear",name="eye_liftup",},lookat_y={times={0,10000,},data={-127.39396,-127.39396,},ranges={{1,2,},},type="Linear",name="lookat_y",},eye_dist={times={0,10000,},data={13.26509,13.26509,},ranges={{1,2,},},type="Linear",name="eye_dist",},has_collision={times={0,10000,},data={1,1,},ranges={{1,2,},},type="Discrete",name="has_collision",},eye_rot_y={times={0,10000,},data={-3.11942,-3.11942,},ranges={{1,2,},},type="LinearAngle",name="eye_rot_y",},lookat_x={times={0,10000,},data={19998.67514,19998.36266,},ranges={{1,2,},},type="Linear",name="lookat_x",},},}
 			</slot>
-			<slot count="1" id="10062">{timeseries={blockinhand={times={},data={},ranges={},type="Discrete",name="blockinhand",},x={times={0,},data={20000.47877,},ranges={{1,1,},},type="Linear",name="x",},pitch={times={0,},data={0,},ranges={{1,1,},},type="LinearAngle",name="pitch",},y={times={0,},data={-128.0549,},ranges={{1,1,},},type="Linear",name="y",},roll={times={0,},data={0,},ranges={{1,1,},},type="LinearAngle",name="roll",},block={times={},data={},ranges={},type="Discrete",name="block",},scaling={times={0,},data={0.83342,},ranges={{1,1,},},type="Linear",name="scaling",},gravity={times={},data={},ranges={},type="Discrete",name="gravity",},HeadUpdownAngle={times={},data={},ranges={},type="Linear",name="HeadUpdownAngle",},anim={times={0,},data={4,},ranges={{1,1,},},type="Discrete",name="anim",},speedscale={times={},data={},ranges={},type="Discrete",name="speedscale",},assetfile={times={0,},data={"ghost",},ranges={{1,1,},},type="Discrete",name="assetfile",},skin={times={},data={},ranges={},type="Discrete",name="skin",},z={times={0,},data={19951.56126,},ranges={{1,1,},},type="Linear",name="z",},facing={times={},data={},ranges={{},},type="LinearAngle",name="facing",},HeadTurningAngle={times={},data={},ranges={},type="Linear",name="HeadTurningAngle",},name={times={},data={},ranges={},type="Discrete",name="name",},opacity={times={4242,5000,},data={1,0,},ranges={{1,2,},},type="Linear",name="opacity",},},}
+			<slot count="1" id="10063">{timeseries={movieblock={times={},data={},ranges={},type="Discrete",name="movieblock",},music={times={},data={},ranges={},type="Discrete",name="music",},tip={times={},data={},ranges={},type="Discrete",name="tip",},time={times={},data={},ranges={},type="Linear",name="time",},cmd={times={},data={},ranges={},type="Discrete",name="cmd",},blocks={times={},data={},ranges={},type="Discrete",name="blocks",},text={times={0,},data={{fontsize=30,text="蝴蝶，别跑！",},},ranges={{1,1,},},type="Discrete",name="text",},},}
+			</slot>
+			<slot count="1" id="10062">{timeseries={blockinhand={times={},data={},ranges={},type="Discrete",name="blockinhand",},x={times={0,9991,},data={19998.76616,19998.76616,},ranges={{1,2,},},type="Linear",name="x",},pitch={times={0,},data={0,},ranges={{1,1,},},type="LinearAngle",name="pitch",},assetfile={times={0,},data={"blocktemplates/butterfly.bmax",},ranges={{1,1,},},type="Discrete",name="assetfile",},roll={times={0,},data={0.48325,},ranges={{1,1,},},type="LinearAngle",name="roll",},block={times={},data={},ranges={},type="Discrete",name="block",},scaling={times={0,},data={1.30897,},ranges={{1,1,},},type="Linear",name="scaling",},gravity={times={},data={},ranges={},type="Discrete",name="gravity",},HeadUpdownAngle={times={},data={},ranges={},type="Linear",name="HeadUpdownAngle",},anim={times={},data={},ranges={},type="Discrete",name="anim",},bones={bone_right_p1_rot={times={0,708,1573,2307,3015,3776,4497,5179,5900,6713,7395,8168,8850,9597,10502,11341,12207,13138,14108,15000,},data={{0.54191,0,0,0.84044,},{-0.43342,0,0,0.90119,},{0.54191,0,0,0.84044,},{-0.43342,0,0,0.90119,},{0.54191,0,0,0.84044,},{-0.43342,0,0,0.90119,},{0.54191,0,0,0.84044,},{-0.43342,0,0,0.90119,},{0.54191,0,0,0.84044,},{-0.43342,0,0,0.90119,},{0.54191,0,0,0.84044,},{-0.43342,0,0,0.90119,},{0.54191,0,0,0.84044,},{-0.43342,0,0,0.90119,},{0.54191,0,0,0.84044,},{-0.43342,0,0,0.90119,},{0.54191,0,0,0.84044,},{-0.43342,0,0,0.90119,},{0.54191,0,0,0.84044,},{-0.43342,0,0,0.90119,},},ranges={{1,20,},},type="Discrete",name="bone_right_p1_rot",},bone_left_mp2_p2_rot={times={0,1573,3015,4497,5900,7395,8850,10502,12207,14108,},data={{-0.52947,0.09061,-0.05701,0.84154,},{-0.52947,0.09061,-0.05701,0.84154,},{-0.52947,0.09061,-0.05701,0.84154,},{-0.52947,0.09061,-0.05701,0.84154,},{-0.52947,0.09061,-0.05701,0.84154,},{-0.52947,0.09061,-0.05701,0.84154,},{-0.52947,0.09061,-0.05701,0.84154,},{-0.52947,0.09061,-0.05701,0.84154,},{-0.52947,0.09061,-0.05701,0.84154,},{-0.52947,0.09061,-0.05701,0.84154,},},ranges={{1,10,},},type="Discrete",name="bone_left_mp2_p2_rot",},bone_right_mp2_p2_rot={times={0,1573,3015,4497,5900,7395,8850,10502,12207,14108,},data={{0.56503,-0.19232,-0.07159,0.79915,},{0.56503,-0.19232,-0.07159,0.79915,},{0.56503,-0.19232,-0.07159,0.79915,},{0.56503,-0.19232,-0.07159,0.79915,},{0.56503,-0.19232,-0.07159,0.79915,},{0.56503,-0.19232,-0.07159,0.79915,},{0.56503,-0.19232,-0.07159,0.79915,},{0.56503,-0.19232,-0.07159,0.79915,},{0.56503,-0.19232,-0.07159,0.79915,},{0.56503,-0.19232,-0.07159,0.79915,},},ranges={{1,10,},},type="Discrete",name="bone_right_mp2_p2_rot",},isContainer=true,bone_left_p1_rot={times={0,708,1573,2307,3015,3776,4497,5179,5900,6713,7395,8168,8850,9597,10502,11341,12207,13138,14108,15000,},data={{-0.59936,0,0,0.80047,},{0.36778,0,0,0.92992,},{-0.59936,0,0,0.80047,},{0.36778,0,0,0.92992,},{-0.59936,0,0,0.80047,},{0.36778,0,0,0.92992,},{-0.59936,0,0,0.80047,},{0.36778,0,0,0.92992,},{-0.59936,0,0,0.80047,},{0.36778,0,0,0.92992,},{-0.59936,0,0,0.80047,},{0.36778,0,0,0.92992,},{-0.59936,0,0,0.80047,},{0.36778,0,0,0.92992,},{-0.59936,0,0,0.80047,},{0.36778,0,0,0.92992,},{-0.59936,0,0,0.80047,},{0.36778,0,0,0.92992,},{-0.59936,0,0,0.80047,},{0.36778,0,0,0.92992,},},ranges={{1,20,},},type="Discrete",name="bone_left_p1_rot",},},speedscale={times={},data={},ranges={},type="Discrete",name="speedscale",},y={times={0,9991,},data={-125.39625,-125.39625,},ranges={{1,2,},},type="Linear",name="y",},skin={times={},data={},ranges={},type="Discrete",name="skin",},HeadTurningAngle={times={},data={},ranges={},type="Linear",name="HeadTurningAngle",},z={times={0,9991,},data={20034.89459,20024.40071,},ranges={{1,2,},},type="Linear",name="z",},facing={times={0,},data={1.66027,},ranges={{1,1,},},type="LinearAngle",name="facing",},name={times={},data={},ranges={},type="Discrete",name="name",},opacity={times={},data={},ranges={},type="Linear",name="opacity",},},}
+			</slot>
+			<slot count="1" id="10062">{timeseries={blockinhand={times={},data={},ranges={},type="Discrete",name="blockinhand",},x={times={0,9991,},data={19999.47793,19999.47793,},ranges={{1,2,},},type="Linear",name="x",},pitch={times={0,},data={0,},ranges={{1,1,},},type="LinearAngle",name="pitch",},assetfile={times={0,},data={"actor",},ranges={{1,1,},},type="Discrete",name="assetfile",},roll={times={0,},data={0,},ranges={{1,1,},},type="LinearAngle",name="roll",},block={times={},data={},ranges={},type="Discrete",name="block",},scaling={times={0,},data={1.38861,},ranges={{1,1,},},type="Linear",name="scaling",},gravity={times={},data={},ranges={},type="Discrete",name="gravity",},HeadUpdownAngle={times={},data={},ranges={},type="Linear",name="HeadUpdownAngle",},anim={times={0,},data={5,},ranges={{1,1,},},type="Discrete",name="anim",},bones={R_UpperArm_rot={times={0,},data={{-0.00967,0.01663,0.87189,0.48933,},},ranges={{1,1,},},type="Discrete",name="R_UpperArm_rot",},isContainer=true,},speedscale={times={0,},data={0.7,},ranges={{1,1,},},type="Discrete",name="speedscale",},y={times={0,9991,},data={-128.12499,-128.12499,},ranges={{1,2,},},type="Linear",name="y",},skin={times={0,},data={"Texture/blocks/human/girl_black_shirt01.png",},ranges={{1,1,},},type="Discrete",name="skin",},HeadTurningAngle={times={},data={},ranges={},type="Linear",name="HeadTurningAngle",},z={times={0,9991,},data={20038.01959,20026.53411,},ranges={{1,2,},},type="Linear",name="z",},facing={times={0,},data={1.53945,},ranges={{1,1,},},type="LinearAngle",name="facing",},name={times={},data={},ranges={},type="Discrete",name="name",},opacity={times={},data={},ranges={},type="Linear",name="opacity",},},}
 			</slot>
 		</inventory>
 	</entity>
-	<entity bz="19204" bx="19184" class="EntityMovieClip" item_id="228" by="5">
+	<entity bz="19246" bx="19240" class="EntityMovieClip" item_id="228" by="5">
+		<cmd>/t 20 /end
+		</cmd>
+		<inventory>
+			<slot count="1" id="10061">{timeseries={has_collision={times={5023,6447,6448,10099,10100,14886,14887,15995,20000,},data={1,1,1,1,1,1,1,1,1,},ranges={{1,9,},},type="Discrete",name="has_collision",},lookat_z={times={5023,6447,6448,10099,10100,14886,14887,15995,20000,},data={20036.07617,20036.07617,20032.34766,20032.34766,20035.85742,20035.85742,20035.77928,20035.77928,20035.77928,},ranges={{1,9,},},type="Linear",name="lookat_z",},eye_liftup={times={5023,6447,6448,10099,10100,14886,14887,15995,20000,},data={0.00942,0.00942,0.18263,0.18263,0.02513,0.02513,0.05513,0.05513,0.05513,},ranges={{1,9,},},type="Linear",name="eye_liftup",},lookat_y={times={5023,6447,6448,10099,10100,14886,14887,15995,20000,},data={-125.54015,-125.54015,-126.04652,-126.04652,-124.02925,-124.02925,-123.29187,-123.29187,-123.29187,},ranges={{1,9,},},type="Linear",name="lookat_y",},eye_dist={times={5023,6447,6448,10099,10100,14886,14887,15995,20000,},data={10.5815,10.5815,10.5815,10.5815,10.5815,10.5815,10.5815,10.5815,10.5815,},ranges={{1,9,},},type="Linear",name="eye_dist",},lookat_x={times={5023,6447,6448,10099,10100,14886,14887,15995,20000,},data={19947.50586,19947.50586,19951.625,19951.625,19954.58789,19954.58789,19954.42774,19954.42774,19954.42774,},ranges={{1,9,},},type="Linear",name="lookat_x",},eye_rot_y={times={5023,6447,6448,10099,10100,14886,14887,15995,20000,},data={3.13392,3.13392,1.1356,1.1356,0.01623,0.01623,-3.11237,-3.11237,-3.11237,},ranges={{1,9,},},type="LinearAngle",name="eye_rot_y",},is_fps={times={5023,6447,6448,10099,10100,14886,14887,15995,20000,},data={0,0,0,0,0,0,0,0,0,},ranges={{1,9,},},type="Discrete",name="is_fps",},},}
+			</slot>
+			<slot count="1" id="10063">{timeseries={music={times={},data={},ranges={},type="Discrete",name="music",},movieblock={times={},data={},ranges={},type="Discrete",name="movieblock",},tip={times={},data={},ranges={},type="Discrete",name="tip",},cmd={times={0,},data={"/show desktop.builder.movie",},ranges={{1,1,},},type="Discrete",name="cmd",},time={times={},data={},ranges={},type="Linear",name="time",},blocks={times={0,1968,3156,4377,5610,6787,7941,9140,10339,11425,12579,13733,14728,15837,17013,18122,},data={{},{[5974639234]={19154,6,19234,10,1638,},},{[5974639234]={19154,6,19234,10,1638,},[6874639234]={19154,7,19234,253,4,{name="entity",attr={bz=19234,bx=19154,pz=0,py=0,class="EntityBlockBone",by=7,item_id=253,px=0,},},},},{[7774639234]={19154,8,19234,10,546,},[5974639234]={19154,6,19234,10,1638,},[6874639234]={19154,7,19234,253,4,{name="entity",attr={bz=19234,bx=19154,pz=0,py=0,class="EntityBlockBone",by=7,item_id=253,px=0,},},},},{[7774639234]={19154,8,19234,10,546,},[8674639234]={19154,9,19234,253,4,{name="entity",attr={bz=19234,bx=19154,pz=0,py=0,class="EntityBlockBone",by=9,item_id=253,px=0,},},},[5974639234]={19154,6,19234,10,1638,},[6874639234]={19154,7,19234,253,4,{name="entity",attr={bz=19234,bx=19154,pz=0,py=0,class="EntityBlockBone",by=7,item_id=253,px=0,},},},},{[7774639234]={19154,8,19234,10,546,},[8674639234]={19154,9,19234,253,4,{name="entity",attr={bz=19234,bx=19154,pz=0,py=0,class="EntityBlockBone",by=9,item_id=253,px=0,},},},[6874639234]={19154,7,19234,253,4,{name="entity",attr={bz=19234,bx=19154,pz=0,py=0,class="EntityBlockBone",by=7,item_id=253,px=0,},},},[5974639234]={19154,6,19234,10,1638,},[8674669234]={19155,9,19234,10,3618,},},{[7774639234]={19154,8,19234,10,546,},[8674639234]={19154,9,19234,253,4,{name="entity",attr={bz=19234,bx=19154,pz=0,py=0,class="EntityBlockBone",by=9,item_id=253,px=0,},},},[6874639234]={19154,7,19234,253,4,{name="entity",attr={bz=19234,bx=19154,pz=0,py=0,class="EntityBlockBone",by=7,item_id=253,px=0,},},},[9574669234]={19155,10,19234,10,3618,},[5974639234]={19154,6,19234,10,1638,},[8674669234]={19155,9,19234,10,3618,},},{[7774639234]={19154,8,19234,10,546,},[8674639234]={19154,9,19234,253,4,{name="entity",attr={bz=19234,bx=19154,pz=0,py=0,class="EntityBlockBone",by=9,item_id=253,px=0,},},},[6874639234]={19154,7,19234,253,4,{name="entity",attr={bz=19234,bx=19154,pz=0,py=0,class="EntityBlockBone",by=7,item_id=253,px=0,},},},[9574669234]={19155,10,19234,10,3618,},[9574669233]={19155,10,19233,10,3618,},[5974639234]={19154,6,19234,10,1638,},[8674669234]={19155,9,19234,10,3618,},},{[7774639234]={19154,8,19234,10,546,},[8674639234]={19154,9,19234,253,4,{name="entity",attr={bz=19234,bx=19154,pz=0,py=0,class="EntityBlockBone",by=9,item_id=253,px=0,},},},[6874639234]={19154,7,19234,253,4,{name="entity",attr={bz=19234,bx=19154,pz=0,py=0,class="EntityBlockBone",by=7,item_id=253,px=0,},},},[8674669234]={19155,9,19234,10,3618,},[9574669234]={19155,10,19234,10,3618,},[9574669233]={19155,10,19233,10,3618,},[5974639234]={19154,6,19234,10,1638,},[9574669235]={19155,10,19235,10,3618,},},{[8674669234]={19155,9,19234,10,3618,},[9574669235]={19155,10,19235,10,3618,},[7774639234]={19154,8,19234,10,546,},[8674639234]={19154,9,19234,253,4,{name="entity",attr={bz=19234,bx=19154,pz=0,py=0,class="EntityBlockBone",by=9,item_id=253,px=0,},},},[6874639234]={19154,7,19234,253,4,{name="entity",attr={bz=19234,bx=19154,pz=0,py=0,class="EntityBlockBone",by=7,item_id=253,px=0,},},},[9574669233]={19155,10,19233,10,3618,},[10474669233]={19155,11,19233,10,3618,},[5974639234]={19154,6,19234,10,1638,},[9574669234]={19155,10,19234,10,3618,},},{[8674669234]={19155,9,19234,10,3618,},[9574669235]={19155,10,19235,10,3618,},[7774639234]={19154,8,19234,10,546,},[8674639234]={19154,9,19234,253,4,{name="entity",attr={bz=19234,bx=19154,pz=0,py=0,class="EntityBlockBone",by=9,item_id=253,px=0,},},},[6874639234]={19154,7,19234,253,4,{name="entity",attr={bz=19234,bx=19154,pz=0,py=0,class="EntityBlockBone",by=7,item_id=253,px=0,},},},[10474669235]={19155,11,19235,10,3618,},[9574669233]={19155,10,19233,10,3618,},[10474669233]={19155,11,19233,10,3618,},[5974639234]={19154,6,19234,10,1638,},[9574669234]={19155,10,19234,10,3618,},},{[8674669234]={19155,9,19234,10,3618,},[9574669233]={19155,10,19233,10,3618,},[9574669235]={19155,10,19235,10,3618,},[7774639234]={19154,8,19234,10,546,},[8674639234]={19154,9,19234,253,4,{name="entity",attr={bz=19234,bx=19154,pz=0,py=0,class="EntityBlockBone",by=9,item_id=253,px=0,},},},[6874639234]={19154,7,19234,253,4,{name="entity",attr={bz=19234,bx=19154,pz=0,py=0,class="EntityBlockBone",by=7,item_id=253,px=0,},},},[10474669235]={19155,11,19235,10,3618,},[10474669232]={19155,11,19232,10,3618,},[10474669233]={19155,11,19233,10,3618,},[5974639234]={19154,6,19234,10,1638,},[9574669234]={19155,10,19234,10,3618,},},{[8674669234]={19155,9,19234,10,3618,},[10474669236]={19155,11,19236,10,3618,},[10474669232]={19155,11,19232,10,3618,},[9574669235]={19155,10,19235,10,3618,},[7774639234]={19154,8,19234,10,546,},[9574669233]={19155,10,19233,10,3618,},[6874639234]={19154,7,19234,253,4,{name="entity",attr={bz=19234,bx=19154,pz=0,py=0,class="EntityBlockBone",by=7,item_id=253,px=0,},},},[10474669235]={19155,11,19235,10,3618,},[8674639234]={19154,9,19234,253,4,{name="entity",attr={bz=19234,bx=19154,pz=0,py=0,class="EntityBlockBone",by=9,item_id=253,px=0,},},},[10474669233]={19155,11,19233,10,3618,},[5974639234]={19154,6,19234,10,1638,},[9574669234]={19155,10,19234,10,3618,},},{[8674669234]={19155,9,19234,10,3618,},[10474669236]={19155,11,19236,10,3618,},[9574669235]={19155,10,19235,10,3618,},[7774639234]={19154,8,19234,10,546,},[8674639234]={19154,9,19234,253,4,{name="entity",attr={bz=19234,bx=19154,pz=0,py=0,class="EntityBlockBone",by=9,item_id=253,px=0,},},},[6874639234]={19154,7,19234,253,4,{name="entity",attr={bz=19234,bx=19154,pz=0,py=0,class="EntityBlockBone",by=7,item_id=253,px=0,},},},[10474669235]={19155,11,19235,10,3618,},[10474669232]={19155,11,19232,10,3618,},[9574669233]={19155,10,19233,10,3618,},[5974639234]={19154,6,19234,10,1638,},[9574669234]={19155,10,19234,10,3618,},},{[8674669234]={19155,9,19234,10,3618,},[9574669235]={19155,10,19235,10,3618,},[7774639234]={19154,8,19234,10,546,},[8674639234]={19154,9,19234,253,4,{name="entity",attr={bz=19234,bx=19154,pz=0,py=0,class="EntityBlockBone",by=9,item_id=253,px=0,},},},[6874639234]={19154,7,19234,253,4,{name="entity",attr={bz=19234,bx=19154,pz=0,py=0,class="EntityBlockBone",by=7,item_id=253,px=0,},},},[9574669234]={19155,10,19234,10,3618,},[10474669232]={19155,11,19232,10,3618,},[10474669236]={19155,11,19236,10,3618,},[5974639234]={19154,6,19234,10,1638,},[9574669233]={19155,10,19233,10,3618,},},{[8674669234]={19155,9,19234,10,3618,},[9574669235]={19155,10,19235,10,3618,},[7774639234]={19154,8,19234,10,546,},[8674639234]={19154,9,19234,253,4,{name="entity",attr={bz=19234,bx=19154,pz=0,py=0,class="EntityBlockBone",by=9,item_id=253,px=0,},},},[6874639234]={19154,7,19234,253,4,{name="entity",attr={bz=19234,bx=19154,pz=0,py=0,class="EntityBlockBone",by=7,item_id=253,px=0,},},},[10474669236]={19155,11,19236,10,3618,},[5974639234]={19154,6,19234,10,1638,},[10474669232]={19155,11,19232,10,3618,},[9574669233]={19155,10,19233,10,3618,},},},ranges={{1,16,},},type="Discrete",name="blocks",},text={times={407,10418,},data={{fontsize=30,text="需要用到的方块：#彩色方块 （id：10 ）； 骨骼 （id：253）",},{fontsize=30,text="用彩色方块时，#鼠标放在其它方块上按Alt+左键可以吸色",},},ranges={{1,2,},},type="Discrete",name="text",},},}
+			</slot>
+			<slot count="1" id="10062">{timeseries={blockinhand={times={483,1218,1546,2881,3443,4329,5551,5956,6796,7794,},data={0,10,10,253,253,10,253,253,10,10,},ranges={{1,10,},},type="Discrete",name="blockinhand",},x={times={0,},data={19951.89002,},ranges={{1,1,},},type="Linear",name="x",},pitch={times={0,},data={0,},ranges={{1,1,},},type="LinearAngle",name="pitch",},y={times={0,},data={-127.08333,},ranges={{1,1,},},type="Linear",name="y",},roll={times={0,},data={0,},ranges={{1,1,},},type="LinearAngle",name="roll",},block={times={},data={},ranges={},type="Discrete",name="block",},scaling={times={7794,},data={1,},ranges={{1,1,},},type="Linear",name="scaling",},gravity={times={7794,},data={19.62,},ranges={{1,1,},},type="Discrete",name="gravity",},HeadUpdownAngle={times={483,1218,1546,2881,4360,4391,4485,4516,4547,4579,4610,4641,4672,4703,5156,5551,5956,6796,7794,},data={0,-0.5139,-0.5139,0,0,-0.06178,-0.06178,-0.06403,-0.06403,-0.07066,-0.07066,-0.07259,-0.07259,-0.07271,-0.07271,-0.31046,-0.31046,-0.1502,-0.1502,},ranges={{1,19,},},type="Linear",name="HeadUpdownAngle",},anim={times={},data={},ranges={{1,0,},},type="Discrete",name="anim",},speedscale={times={7794,},data={1,},ranges={{1,1,},},type="Discrete",name="speedscale",},assetfile={times={7794,},data={"actor",},ranges={{1,1,},},type="Discrete",name="assetfile",},skin={times={7794,},data={"Texture/blocks/human/actor_yellow.png",},ranges={{1,1,},},type="Discrete",name="skin",},facing={times={0,},data={-1.12476,},ranges={{1,1,},},type="LinearAngle",name="facing",},z={times={0,},data={20034.06713,},ranges={{1,1,},},type="Linear",name="z",},HeadTurningAngle={times={483,1218,1546,2881,4360,4391,4672,4703,5156,5551,5956,6796,7794,},data={0,-1.18529,-1.18529,0,0,-1.2,-1.2,-1.19856,-1.19856,0.05594,0.05594,-0.47484,-0.47484,},ranges={{1,13,},},type="Linear",name="HeadTurningAngle",},name={times={},data={},ranges={},type="Discrete",name="name",},opacity={times={},data={},ranges={},type="Linear",name="opacity",},},}
+			</slot>
+		</inventory>
+	</entity>
+	<entity bz="19197" bx="19198" class="EntityMovieClip" item_id="228" by="5">
+		<cmd>/t 10 /end
+		</cmd>
+		<inventory>
+			<slot count="1" id="10061">{timeseries={has_collision={times={0,439,1425,2300,3542,4492,5831,6587,8822,10000,},data={1,1,1,1,1,1,1,1,1,1,},ranges={{1,10,},},type="Discrete",name="has_collision",},is_fps={times={0,439,1425,2300,3542,4492,5831,6587,8822,10000,},data={0,0,0,0,0,0,0,0,0,0,},ranges={{1,10,},},type="Discrete",name="is_fps",},eye_liftup={times={0,439,1425,2300,3542,4492,5831,6587,8822,10000,},data={0.17413,0.17413,0.17413,0.40663,0.40663,0.371,0.371,0.266,0.266,0.266,},ranges={{1,10,},},type="Linear",name="eye_liftup",},lookat_y={times={0,439,1425,2300,3542,4492,5831,6587,8822,10000,},data={-127.02281,-127.02281,-127.02281,-128.125,-128.125,-128.125,-128.125,-128.125,-128.125,-128.125,},ranges={{1,10,},},type="Linear",name="lookat_y",},eye_dist={times={0,439,1425,2300,3542,4492,5831,6587,8822,10000,},data={8,8,8,8,8,8,8,8,8,8,},ranges={{1,10,},},type="Linear",name="eye_dist",},lookat_x={times={0,439,1425,2300,3542,4492,5831,6587,8822,10000,},data={19998.54883,19998.54883,19998.54883,19995.05664,19995.05664,19995.875,19995.875,19995.8711,19995.8711,19995.8711,},ranges={{1,10,},},type="Linear",name="lookat_x",},eye_rot_y={times={0,439,1425,2300,3542,4492,5831,6587,8822,10000,},data={-3.11811,-3.11811,-3.11811,-3.11811,-3.11811,-3.11874,-3.11874,3.09695,3.09695,3.09695,},ranges={{1,10,},},type="LinearAngle",name="eye_rot_y",},lookat_z={times={0,439,1425,2300,3542,4492,5831,6587,8822,10000,},data={19999.64258,19999.64258,19999.64258,19999.52735,19999.52735,20036.25196,20036.25196,20064.16602,20064.16602,20064.16602,},ranges={{1,10,},},type="Linear",name="lookat_z",},},}
+			</slot>
+			<slot count="1" id="10063">{timeseries={movieblock={times={},data={},ranges={},type="Discrete",name="movieblock",},music={times={},data={},ranges={},type="Discrete",name="music",},tip={times={},data={},ranges={},type="Discrete",name="tip",},time={times={},data={},ranges={},type="Linear",name="time",},cmd={times={},data={},ranges={},type="Discrete",name="cmd",},blocks={times={},data={},ranges={},type="Discrete",name="blocks",},text={times={0,2278,7764,9049,},data={{textpos="center",text="这里有3个参考作品",},{textpos="center",text="难度从简单，到普通，到困难",},{textpos="center",text="选择一个你喜欢的故事或自己设计故事",},{textpos="center",text="被忘了，你可以查看每个故事的电影方块",},},ranges={{1,4,},},type="Discrete",name="text",},},}
+			</slot>
+		</inventory>
+	</entity>
+	<entity bz="19240" bx="19183" class="EntityMovieClip" item_id="228" by="5">
 		<cmd>/t 5 /end
 		</cmd>
 		<inventory>
-			<slot count="1" id="10061">{timeseries={is_fps={times={0,2683,3000,5000,},data={0,0,0,0,},ranges={{1,4,},},type="Discrete",name="is_fps",},lookat_z={times={0,2683,3000,5000,},data={20003.71875,20003.75391,20003.75378,20003.75378,},ranges={{1,4,},},type="Linear",name="lookat_z",},eye_liftup={times={0,2683,3000,5000,},data={0.4562,0.36055,0.36055,0.36055,},ranges={{1,4,},},type="Linear",name="eye_liftup",},lookat_y={times={0,2683,3000,5000,},data={-125.4402,-127.65412,-127.64593,-127.64593,},ranges={{1,4,},},type="Linear",name="lookat_y",},eye_dist={times={0,2683,3000,5000,},data={5.62948,5.62948,5.62948,5.62948,},ranges={{1,4,},},type="Linear",name="eye_dist",},has_collision={times={0,2683,3000,5000,},data={1,1,1,1,},ranges={{1,4,},},type="Discrete",name="has_collision",},eye_rot_y={times={0,2683,3000,5000,},data={3.12045,3.13696,3.13696,3.13696,},ranges={{1,4,},},type="LinearAngle",name="eye_rot_y",},lookat_x={times={0,2683,3000,5000,},data={19989.14453,19987.96875,19987.9731,19987.9731,},ranges={{1,4,},},type="Linear",name="lookat_x",},},}
+			<slot count="1" id="10061">{timeseries={is_fps={times={5000,},data={0,},ranges={{1,1,},},type="Discrete",name="is_fps",},lookat_z={times={5000,},data={20036.97792,},ranges={{1,1,},},type="Linear",name="lookat_z",},eye_liftup={times={5000,},data={0.73687,},ranges={{1,1,},},type="Linear",name="eye_liftup",},lookat_y={times={5000,},data={-127.08333,},ranges={{1,1,},},type="Linear",name="lookat_y",},eye_dist={times={5000,},data={13.26509,},ranges={{1,1,},},type="Linear",name="eye_dist",},has_collision={times={5000,},data={1,},ranges={{1,1,},},type="Discrete",name="has_collision",},eye_rot_y={times={5000,},data={-2.88987,},ranges={{1,1,},},type="LinearAngle",name="eye_rot_y",},lookat_x={times={5000,},data={19985.93625,},ranges={{1,1,},},type="Linear",name="lookat_x",},},}
 			</slot>
-			<slot count="1" id="10063">{timeseries={movieblock={times={},data={},ranges={},type="Discrete",name="movieblock",},music={times={},data={},ranges={},type="Discrete",name="music",},tip={times={},data={},ranges={},type="Discrete",name="tip",},time={times={},data={},ranges={},type="Linear",name="time",},cmd={times={},data={},ranges={},type="Discrete",name="cmd",},blocks={times={},data={},ranges={},type="Discrete",name="blocks",},text={times={0,2466,2635,5293,},data={{fontsize=30,textpos="center",textanim="fadeinout",bgcolor="#000000",text="这是我的第一个作品",},{fontsize=30,textpos="center",textanim="fadeinout",bgcolor="#000000",text=" ",},{fontsize=30,textpos="center",textanim="fadeinout",bgcolor="#000000",text="谢谢观赏！",},{fontsize=30,textpos="center",bganim="fadeout",textanim="fadeout",bgcolor="#000000",text="谢谢观赏！",},},ranges={{1,4,},},type="Discrete",name="text",},},}
+			<slot count="1" id="10063">{timeseries={movieblock={times={},data={},ranges={},type="Discrete",name="movieblock",},music={times={},data={},ranges={},type="Discrete",name="music",},tip={times={},data={},ranges={},type="Discrete",name="tip",},time={times={},data={},ranges={},type="Linear",name="time",},cmd={times={},data={},ranges={},type="Discrete",name="cmd",},blocks={times={},data={},ranges={},type="Discrete",name="blocks",},text={times={0,},data={{fontsize=40,textpos="center",textanim="fadeinout",bgcolor="#000000",text="欢迎观看！",},},ranges={{1,1,},},type="Discrete",name="text",},},}
 			</slot>
 		</inventory>
 	</entity>
@@ -108,13 +184,33 @@
 			</slot>
 		</inventory>
 	</entity>
-	<entity bz="19197" bx="19198" class="EntityMovieClip" item_id="228" by="5">
-		<cmd>/t 10 /end
+	<entity bz="19204" bx="19184" class="EntityMovieClip" item_id="228" by="5">
+		<cmd>/t 5 /end
 		</cmd>
 		<inventory>
-			<slot count="1" id="10061">{timeseries={has_collision={times={0,439,1425,2300,3542,4492,5831,6587,8822,10000,},data={1,1,1,1,1,1,1,1,1,1,},ranges={{1,10,},},type="Discrete",name="has_collision",},is_fps={times={0,439,1425,2300,3542,4492,5831,6587,8822,10000,},data={0,0,0,0,0,0,0,0,0,0,},ranges={{1,10,},},type="Discrete",name="is_fps",},eye_liftup={times={0,439,1425,2300,3542,4492,5831,6587,8822,10000,},data={0.17413,0.17413,0.17413,0.40663,0.40663,0.371,0.371,0.266,0.266,0.266,},ranges={{1,10,},},type="Linear",name="eye_liftup",},lookat_y={times={0,439,1425,2300,3542,4492,5831,6587,8822,10000,},data={-127.02281,-127.02281,-127.02281,-128.125,-128.125,-128.125,-128.125,-128.125,-128.125,-128.125,},ranges={{1,10,},},type="Linear",name="lookat_y",},eye_dist={times={0,439,1425,2300,3542,4492,5831,6587,8822,10000,},data={8,8,8,8,8,8,8,8,8,8,},ranges={{1,10,},},type="Linear",name="eye_dist",},lookat_x={times={0,439,1425,2300,3542,4492,5831,6587,8822,10000,},data={19998.54883,19998.54883,19998.54883,19995.05664,19995.05664,19995.875,19995.875,19995.8711,19995.8711,19995.8711,},ranges={{1,10,},},type="Linear",name="lookat_x",},eye_rot_y={times={0,439,1425,2300,3542,4492,5831,6587,8822,10000,},data={-3.11811,-3.11811,-3.11811,-3.11811,-3.11811,-3.11874,-3.11874,3.09695,3.09695,3.09695,},ranges={{1,10,},},type="LinearAngle",name="eye_rot_y",},lookat_z={times={0,439,1425,2300,3542,4492,5831,6587,8822,10000,},data={19999.64258,19999.64258,19999.64258,19999.52735,19999.52735,20036.25196,20036.25196,20064.16602,20064.16602,20064.16602,},ranges={{1,10,},},type="Linear",name="lookat_z",},},}
+			<slot count="1" id="10061">{timeseries={is_fps={times={0,2683,3000,5000,},data={0,0,0,0,},ranges={{1,4,},},type="Discrete",name="is_fps",},lookat_z={times={0,2683,3000,5000,},data={20003.71875,20003.75391,20003.75378,20003.75378,},ranges={{1,4,},},type="Linear",name="lookat_z",},eye_liftup={times={0,2683,3000,5000,},data={0.4562,0.36055,0.36055,0.36055,},ranges={{1,4,},},type="Linear",name="eye_liftup",},lookat_y={times={0,2683,3000,5000,},data={-125.4402,-127.65412,-127.64593,-127.64593,},ranges={{1,4,},},type="Linear",name="lookat_y",},eye_dist={times={0,2683,3000,5000,},data={5.62948,5.62948,5.62948,5.62948,},ranges={{1,4,},},type="Linear",name="eye_dist",},has_collision={times={0,2683,3000,5000,},data={1,1,1,1,},ranges={{1,4,},},type="Discrete",name="has_collision",},eye_rot_y={times={0,2683,3000,5000,},data={3.12045,3.13696,3.13696,3.13696,},ranges={{1,4,},},type="LinearAngle",name="eye_rot_y",},lookat_x={times={0,2683,3000,5000,},data={19989.14453,19987.96875,19987.9731,19987.9731,},ranges={{1,4,},},type="Linear",name="lookat_x",},},}
 			</slot>
-			<slot count="1" id="10063">{timeseries={movieblock={times={},data={},ranges={},type="Discrete",name="movieblock",},music={times={},data={},ranges={},type="Discrete",name="music",},tip={times={},data={},ranges={},type="Discrete",name="tip",},time={times={},data={},ranges={},type="Linear",name="time",},cmd={times={},data={},ranges={},type="Discrete",name="cmd",},blocks={times={},data={},ranges={},type="Discrete",name="blocks",},text={times={0,2278,7764,9049,},data={{textpos="center",text="这里有3个参考作品",},{textpos="center",text="难度从简单，到普通，到困难",},{textpos="center",text="选择一个你喜欢的故事或自己设计故事",},{textpos="center",text="被忘了，你可以查看每个故事的电影方块",},},ranges={{1,4,},},type="Discrete",name="text",},},}
+			<slot count="1" id="10063">{timeseries={movieblock={times={},data={},ranges={},type="Discrete",name="movieblock",},music={times={},data={},ranges={},type="Discrete",name="music",},tip={times={},data={},ranges={},type="Discrete",name="tip",},time={times={},data={},ranges={},type="Linear",name="time",},cmd={times={},data={},ranges={},type="Discrete",name="cmd",},blocks={times={},data={},ranges={},type="Discrete",name="blocks",},text={times={0,2466,2635,5293,},data={{fontsize=30,textpos="center",textanim="fadeinout",bgcolor="#000000",text="这是我的第一个作品",},{fontsize=30,textpos="center",textanim="fadeinout",bgcolor="#000000",text=" ",},{fontsize=30,textpos="center",textanim="fadeinout",bgcolor="#000000",text="谢谢观赏！",},{fontsize=30,textpos="center",bganim="fadeout",textanim="fadeout",bgcolor="#000000",text="谢谢观赏！",},},ranges={{1,4,},},type="Discrete",name="text",},},}
+			</slot>
+		</inventory>
+	</entity>
+	<entity bz="19192" bx="19240" class="EntityMovieClip" item_id="228" by="5">
+		<cmd>/t 8 /end
+		</cmd>
+		<inventory>
+			<slot count="1" id="10061">{timeseries={has_collision={times={0,8000,},data={1,1,},ranges={{1,2,},},type="Discrete",name="has_collision",},lookat_z={times={0,8000,},data={19979.75782,19979.75782,},ranges={{1,2,},},type="Linear",name="lookat_z",},eye_liftup={times={0,8000,},data={0.0066,0.0066,},ranges={{1,2,},},type="Linear",name="eye_liftup",},lookat_y={times={0,8000,},data={-124.92085,-124.92085,},ranges={{1,2,},},type="Linear",name="lookat_y",},eye_dist={times={0,8000,},data={8,8,},ranges={{1,2,},},type="Linear",name="eye_dist",},lookat_x={times={0,8000,},data={19951.71485,19951.71485,},ranges={{1,2,},},type="Linear",name="lookat_x",},eye_rot_y={times={0,8000,},data={3.13215,3.13215,},ranges={{1,2,},},type="LinearAngle",name="eye_rot_y",},is_fps={times={0,8000,},data={0,0,},ranges={{1,2,},},type="Discrete",name="is_fps",},},}
+			</slot>
+			<slot count="1" id="10063">{timeseries={music={times={},data={},ranges={},type="Discrete",name="music",},movieblock={times={},data={},ranges={},type="Discrete",name="movieblock",},tip={times={},data={},ranges={},type="Discrete",name="tip",},time={times={},data={},ranges={},type="Linear",name="time",},cmd={times={},data={},ranges={},type="Discrete",name="cmd",},blocks={times={0,2380,4063,5619,},data={{},{[7774549177]={19151,8,19177,135,},[5974549177]={19151,6,19177,135,},[6874549177]={19151,7,19177,135,},},{[7774519177]={19150,8,19177,135,},[6874549177]={19151,7,19177,135,},[6874519177]={19150,7,19177,135,},[7774549177]={19151,8,19177,135,},[5974549177]={19151,6,19177,135,},[5974519177]={19150,6,19177,135,},},{[7774519177]={19150,8,19177,135,},[5974549177]={19151,6,19177,135,},[9574519177]={19150,10,19177,135,},[8674519177]={19150,9,19177,135,},[6874549177]={19151,7,19177,135,},[6874519177]={19150,7,19177,135,},[5974519177]={19150,6,19177,135,},[10474519177]={19150,11,19177,135,},[7774549177]={19151,8,19177,135,},},},ranges={{1,4,},},type="Discrete",name="blocks",},text={times={63,4054,},data={{fontsize=30,text="按Shift+右键点击方块",},{fontsize=30,text="快速建造3个相同的方块",},},ranges={{1,2,},},type="Discrete",name="text",},},}
+			</slot>
+		</inventory>
+	</entity>
+	<entity bz="19153" bx="19197" class="EntityMovieClip" item_id="228" by="4">
+		<cmd>/t 5 /end
+		</cmd>
+		<inventory>
+			<slot count="1" id="10063">{timeseries={music={times={},data={},ranges={},type="Discrete",name="music",},movieblock={times={},data={},ranges={},type="Discrete",name="movieblock",},tip={times={},data={},ranges={},type="Discrete",name="tip",},cmd={times={},data={},ranges={},type="Discrete",name="cmd",},time={times={},data={},ranges={},type="Linear",name="time",},blocks={times={},data={},ranges={},type="Discrete",name="blocks",},text={times={0,},data={{textpos="center",textanim="fadeinout",text="恭喜！你掌握了基本的操作#下面继续学习高级操作",},},ranges={{1,1,},},type="Discrete",name="text",},},}
+			</slot>
+			<slot count="1" id="10062">{timeseries={blockinhand={times={},data={},ranges={},type="Discrete",name="blockinhand",},x={times={0,},data={20000.47877,},ranges={{1,1,},},type="Linear",name="x",},pitch={times={0,},data={0,},ranges={{1,1,},},type="LinearAngle",name="pitch",},y={times={0,},data={-128.0549,},ranges={{1,1,},},type="Linear",name="y",},roll={times={0,},data={0,},ranges={{1,1,},},type="LinearAngle",name="roll",},block={times={},data={},ranges={},type="Discrete",name="block",},scaling={times={0,},data={0.83342,},ranges={{1,1,},},type="Linear",name="scaling",},gravity={times={},data={},ranges={},type="Discrete",name="gravity",},HeadUpdownAngle={times={},data={},ranges={},type="Linear",name="HeadUpdownAngle",},anim={times={0,},data={4,},ranges={{1,1,},},type="Discrete",name="anim",},speedscale={times={},data={},ranges={},type="Discrete",name="speedscale",},assetfile={times={0,},data={"ghost",},ranges={{1,1,},},type="Discrete",name="assetfile",},skin={times={},data={},ranges={},type="Discrete",name="skin",},z={times={0,},data={19951.56126,},ranges={{1,1,},},type="Linear",name="z",},facing={times={},data={},ranges={{},},type="LinearAngle",name="facing",},HeadTurningAngle={times={},data={},ranges={},type="Linear",name="HeadTurningAngle",},name={times={},data={},ranges={},type="Discrete",name="name",},opacity={times={4242,5000,},data={1,0,},ranges={{1,2,},},type="Linear",name="opacity",},},}
 			</slot>
 		</inventory>
 	</entity>
@@ -125,16 +221,6 @@
 			<slot count="1" id="10061">{timeseries={lookat_x={times={0,2092,2913,3734,5806,8641,9482,10244,12023,13221,18246,19570,20000,},data={20014.08789,20014.08789,20008.15235,20007.91602,20007.91602,20007.91602,20007.34766,20001.30274,20002.07224,20004.01172,20003.38477,20003.38789,20003.38789,},ranges={{1,13,},},type="Linear",name="lookat_x",},is_fps={times={0,2092,2913,3734,5806,8641,9482,10244,12023,13221,18246,19570,20000,},data={0,0,0,0,0,0,0,0,0,0,0,0,0,},ranges={{1,13,},},type="Discrete",name="is_fps",},eye_liftup={times={0,2092,2913,3734,5806,8641,9482,10244,12023,13221,18246,19570,20000,},data={0.33977,0.33977,0.36102,0.36102,0.36102,0.36102,0.37102,0.31602,0.32303,0.60832,0.51656,0.49702,0.49702,},ranges={{1,13,},},type="Linear",name="eye_liftup",},lookat_y={times={0,2092,2913,3734,5806,8641,9482,10244,12023,13221,18246,19570,20000,},data={-127.08333,-127.08333,-128.125,-128.125,-128.125,-128.125,-128.125,-128.125,-128.125,-124.93554,-125.59835,-125.59506,-125.59506,},ranges={{1,13,},},type="Linear",name="lookat_y",},eye_dist={times={0,2092,2913,3734,5806,8641,9482,10244,12023,13221,18246,19570,20000,},data={6.38197,6.38197,6.38197,6.38197,6.38197,6.38197,6.38197,6.38197,6.38197,6.38197,7.4179,7.41275,7.41275,},ranges={{1,13,},},type="Linear",name="eye_dist",},has_collision={times={0,2092,2913,3734,5806,8641,9482,10244,12023,13221,18246,19570,20000,},data={1,1,1,1,1,1,1,1,1,1,1,1,1,},ranges={{1,13,},},type="Discrete",name="has_collision",},eye_rot_y={times={0,2092,2913,3734,5806,8641,9482,10244,12023,13221,18246,19570,20000,},data={-3.12579,-3.12579,-3.09579,-3.10579,-3.10579,-3.10579,-3.13579,-3.10579,-3.1096,-3.13558,-2.30564,3.13092,3.13092,},ranges={{1,13,},},type="LinearAngle",name="eye_rot_y",},lookat_z={times={0,2092,2913,3734,5806,8641,9482,10244,12023,13221,18246,19570,20000,},data={19946.34766,19946.34766,19946.50977,19939.94532,19939.94532,19939.94532,19946.24219,19946.33203,19946.3206,19939.125,19939.14649,19939.14638,19939.14638,},ranges={{1,13,},},type="Linear",name="lookat_z",},},}
 			</slot>
 			<slot count="1" id="10063">{timeseries={music={times={},data={},ranges={},type="Discrete",name="music",},movieblock={times={},data={},ranges={},type="Discrete",name="movieblock",},tip={times={},data={},ranges={},type="Discrete",name="tip",},time={times={},data={},ranges={},type="Linear",name="time",},cmd={times={13939,19901,},data={"/loadtemplate -a 8 ~-11 ~0 ~-2 demohouse","/loadtemplate -r ~-11 ~0 ~-2 demohouse",},ranges={{1,2,},},type="Discrete",name="cmd",},blocks={times={},data={},ranges={},type="Discrete",name="blocks",},text={times={0,3754,9482,13803,},data={{textanim="fadeinout",textpos="center",text="练习时间！",},{textanim="fadeinout",textpos="center",text="这里有大量的建造任务#挑选完成1-2个新手教学任务",},{textanim="fadeinout",textpos="center",text="最后在没有提示的情况下#独自完成一个小房子",},{textanim="fadeinout",textpos="center",text="例如这样的小房子",},},ranges={{1,4,},},type="Discrete",name="text",},},}
-			</slot>
-		</inventory>
-	</entity>
-	<entity bz="19240" bx="19183" class="EntityMovieClip" item_id="228" by="5">
-		<cmd>/t 5 /end
-		</cmd>
-		<inventory>
-			<slot count="1" id="10061">{timeseries={is_fps={times={5000,},data={0,},ranges={{1,1,},},type="Discrete",name="is_fps",},lookat_z={times={5000,},data={20036.97792,},ranges={{1,1,},},type="Linear",name="lookat_z",},eye_liftup={times={5000,},data={0.73687,},ranges={{1,1,},},type="Linear",name="eye_liftup",},lookat_y={times={5000,},data={-127.08333,},ranges={{1,1,},},type="Linear",name="lookat_y",},eye_dist={times={5000,},data={13.26509,},ranges={{1,1,},},type="Linear",name="eye_dist",},has_collision={times={5000,},data={1,},ranges={{1,1,},},type="Discrete",name="has_collision",},eye_rot_y={times={5000,},data={-2.88987,},ranges={{1,1,},},type="LinearAngle",name="eye_rot_y",},lookat_x={times={5000,},data={19985.93625,},ranges={{1,1,},},type="Linear",name="lookat_x",},},}
-			</slot>
-			<slot count="1" id="10063">{timeseries={movieblock={times={},data={},ranges={},type="Discrete",name="movieblock",},music={times={},data={},ranges={},type="Discrete",name="music",},tip={times={},data={},ranges={},type="Discrete",name="tip",},time={times={},data={},ranges={},type="Linear",name="time",},cmd={times={},data={},ranges={},type="Discrete",name="cmd",},blocks={times={},data={},ranges={},type="Discrete",name="blocks",},text={times={0,},data={{fontsize=40,textpos="center",textanim="fadeinout",bgcolor="#000000",text="欢迎观看！",},},ranges={{1,1,},},type="Discrete",name="text",},},}
 			</slot>
 		</inventory>
 	</entity>
@@ -150,40 +236,111 @@
 			</slot>
 		</inventory>
 	</entity>
-	<entity bz="19238" bx="19183" class="EntityMovieClip" item_id="228" by="5">
-		<cmd>/t 10 /end
+	<entity bz="19205" bx="19240" class="EntityMovieClip" item_id="228" by="5">
+		<cmd>/t 5 /end
 		</cmd>
 		<inventory>
-			<slot count="1" id="10061">{timeseries={is_fps={times={0,10000,},data={0,0,},ranges={{1,2,},},type="Discrete",name="is_fps",},lookat_z={times={0,10000,},data={20035.69791,20025.70649,},ranges={{1,2,},},type="Linear",name="lookat_z",},eye_liftup={times={0,10000,},data={0.50085,0.50085,},ranges={{1,2,},},type="Linear",name="eye_liftup",},lookat_y={times={0,10000,},data={-127.39396,-127.39396,},ranges={{1,2,},},type="Linear",name="lookat_y",},eye_dist={times={0,10000,},data={13.26509,13.26509,},ranges={{1,2,},},type="Linear",name="eye_dist",},has_collision={times={0,10000,},data={1,1,},ranges={{1,2,},},type="Discrete",name="has_collision",},eye_rot_y={times={0,10000,},data={-3.11942,-3.11942,},ranges={{1,2,},},type="LinearAngle",name="eye_rot_y",},lookat_x={times={0,10000,},data={19998.67514,19998.36266,},ranges={{1,2,},},type="Linear",name="lookat_x",},},}
+			<slot count="1" id="10061">{timeseries={has_collision={times={0,5000,},data={1,1,},ranges={{1,2,},},type="Discrete",name="has_collision",},lookat_z={times={0,5000,},data={19993.36133,19993.36133,},ranges={{1,2,},},type="Linear",name="lookat_z",},eye_liftup={times={0,5000,},data={0.12178,0.12178,},ranges={{1,2,},},type="Linear",name="eye_liftup",},lookat_y={times={0,5000,},data={-127.10926,-127.10926,},ranges={{1,2,},},type="Linear",name="lookat_y",},eye_dist={times={0,5000,},data={8,8,},ranges={{1,2,},},type="Linear",name="eye_dist",},lookat_x={times={0,5000,},data={19948.13282,19948.13282,},ranges={{1,2,},},type="Linear",name="lookat_x",},eye_rot_y={times={0,5000,},data={-3.13679,-3.13679,},ranges={{1,2,},},type="LinearAngle",name="eye_rot_y",},is_fps={times={0,5000,},data={0,0,},ranges={{1,2,},},type="Discrete",name="is_fps",},},}
 			</slot>
-			<slot count="1" id="10063">{timeseries={movieblock={times={},data={},ranges={},type="Discrete",name="movieblock",},music={times={},data={},ranges={},type="Discrete",name="music",},tip={times={},data={},ranges={},type="Discrete",name="tip",},time={times={},data={},ranges={},type="Linear",name="time",},cmd={times={},data={},ranges={},type="Discrete",name="cmd",},blocks={times={},data={},ranges={},type="Discrete",name="blocks",},text={times={0,},data={{fontsize=30,text="蝴蝶，别跑！",},},ranges={{1,1,},},type="Discrete",name="text",},},}
-			</slot>
-			<slot count="1" id="10062">{timeseries={blockinhand={times={},data={},ranges={},type="Discrete",name="blockinhand",},x={times={0,9991,},data={19998.76616,19998.76616,},ranges={{1,2,},},type="Linear",name="x",},pitch={times={0,},data={0,},ranges={{1,1,},},type="LinearAngle",name="pitch",},assetfile={times={0,},data={"blocktemplates/butterfly.bmax",},ranges={{1,1,},},type="Discrete",name="assetfile",},roll={times={0,},data={0.48325,},ranges={{1,1,},},type="LinearAngle",name="roll",},block={times={},data={},ranges={},type="Discrete",name="block",},scaling={times={0,},data={1.30897,},ranges={{1,1,},},type="Linear",name="scaling",},gravity={times={},data={},ranges={},type="Discrete",name="gravity",},HeadUpdownAngle={times={},data={},ranges={},type="Linear",name="HeadUpdownAngle",},anim={times={},data={},ranges={},type="Discrete",name="anim",},bones={bone_right_p1_rot={times={0,708,1573,2307,3015,3776,4497,5179,5900,6713,7395,8168,8850,9597,10502,11341,12207,13138,14108,15000,},data={{0.54191,0,0,0.84044,},{-0.43342,0,0,0.90119,},{0.54191,0,0,0.84044,},{-0.43342,0,0,0.90119,},{0.54191,0,0,0.84044,},{-0.43342,0,0,0.90119,},{0.54191,0,0,0.84044,},{-0.43342,0,0,0.90119,},{0.54191,0,0,0.84044,},{-0.43342,0,0,0.90119,},{0.54191,0,0,0.84044,},{-0.43342,0,0,0.90119,},{0.54191,0,0,0.84044,},{-0.43342,0,0,0.90119,},{0.54191,0,0,0.84044,},{-0.43342,0,0,0.90119,},{0.54191,0,0,0.84044,},{-0.43342,0,0,0.90119,},{0.54191,0,0,0.84044,},{-0.43342,0,0,0.90119,},},ranges={{1,20,},},type="Discrete",name="bone_right_p1_rot",},bone_left_mp2_p2_rot={times={0,1573,3015,4497,5900,7395,8850,10502,12207,14108,},data={{-0.52947,0.09061,-0.05701,0.84154,},{-0.52947,0.09061,-0.05701,0.84154,},{-0.52947,0.09061,-0.05701,0.84154,},{-0.52947,0.09061,-0.05701,0.84154,},{-0.52947,0.09061,-0.05701,0.84154,},{-0.52947,0.09061,-0.05701,0.84154,},{-0.52947,0.09061,-0.05701,0.84154,},{-0.52947,0.09061,-0.05701,0.84154,},{-0.52947,0.09061,-0.05701,0.84154,},{-0.52947,0.09061,-0.05701,0.84154,},},ranges={{1,10,},},type="Discrete",name="bone_left_mp2_p2_rot",},bone_right_mp2_p2_rot={times={0,1573,3015,4497,5900,7395,8850,10502,12207,14108,},data={{0.56503,-0.19232,-0.07159,0.79915,},{0.56503,-0.19232,-0.07159,0.79915,},{0.56503,-0.19232,-0.07159,0.79915,},{0.56503,-0.19232,-0.07159,0.79915,},{0.56503,-0.19232,-0.07159,0.79915,},{0.56503,-0.19232,-0.07159,0.79915,},{0.56503,-0.19232,-0.07159,0.79915,},{0.56503,-0.19232,-0.07159,0.79915,},{0.56503,-0.19232,-0.07159,0.79915,},{0.56503,-0.19232,-0.07159,0.79915,},},ranges={{1,10,},},type="Discrete",name="bone_right_mp2_p2_rot",},isContainer=true,bone_left_p1_rot={times={0,708,1573,2307,3015,3776,4497,5179,5900,6713,7395,8168,8850,9597,10502,11341,12207,13138,14108,15000,},data={{-0.59936,0,0,0.80047,},{0.36778,0,0,0.92992,},{-0.59936,0,0,0.80047,},{0.36778,0,0,0.92992,},{-0.59936,0,0,0.80047,},{0.36778,0,0,0.92992,},{-0.59936,0,0,0.80047,},{0.36778,0,0,0.92992,},{-0.59936,0,0,0.80047,},{0.36778,0,0,0.92992,},{-0.59936,0,0,0.80047,},{0.36778,0,0,0.92992,},{-0.59936,0,0,0.80047,},{0.36778,0,0,0.92992,},{-0.59936,0,0,0.80047,},{0.36778,0,0,0.92992,},{-0.59936,0,0,0.80047,},{0.36778,0,0,0.92992,},{-0.59936,0,0,0.80047,},{0.36778,0,0,0.92992,},},ranges={{1,20,},},type="Discrete",name="bone_left_p1_rot",},},speedscale={times={},data={},ranges={},type="Discrete",name="speedscale",},y={times={0,9991,},data={-125.39625,-125.39625,},ranges={{1,2,},},type="Linear",name="y",},skin={times={},data={},ranges={},type="Discrete",name="skin",},HeadTurningAngle={times={},data={},ranges={},type="Linear",name="HeadTurningAngle",},z={times={0,9991,},data={20034.89459,20024.40071,},ranges={{1,2,},},type="Linear",name="z",},facing={times={0,},data={1.66027,},ranges={{1,1,},},type="LinearAngle",name="facing",},name={times={},data={},ranges={},type="Discrete",name="name",},opacity={times={},data={},ranges={},type="Linear",name="opacity",},},}
-			</slot>
-			<slot count="1" id="10062">{timeseries={blockinhand={times={},data={},ranges={},type="Discrete",name="blockinhand",},x={times={0,9991,},data={19999.47793,19999.47793,},ranges={{1,2,},},type="Linear",name="x",},pitch={times={0,},data={0,},ranges={{1,1,},},type="LinearAngle",name="pitch",},assetfile={times={0,},data={"actor",},ranges={{1,1,},},type="Discrete",name="assetfile",},roll={times={0,},data={0,},ranges={{1,1,},},type="LinearAngle",name="roll",},block={times={},data={},ranges={},type="Discrete",name="block",},scaling={times={0,},data={1.38861,},ranges={{1,1,},},type="Linear",name="scaling",},gravity={times={},data={},ranges={},type="Discrete",name="gravity",},HeadUpdownAngle={times={},data={},ranges={},type="Linear",name="HeadUpdownAngle",},anim={times={0,},data={5,},ranges={{1,1,},},type="Discrete",name="anim",},bones={R_UpperArm_rot={times={0,},data={{-0.00967,0.01663,0.87189,0.48933,},},ranges={{1,1,},},type="Discrete",name="R_UpperArm_rot",},isContainer=true,},speedscale={times={0,},data={0.7,},ranges={{1,1,},},type="Discrete",name="speedscale",},y={times={0,9991,},data={-128.12499,-128.12499,},ranges={{1,2,},},type="Linear",name="y",},skin={times={0,},data={"Texture/blocks/human/girl_black_shirt01.png",},ranges={{1,1,},},type="Discrete",name="skin",},HeadTurningAngle={times={},data={},ranges={},type="Linear",name="HeadTurningAngle",},z={times={0,9991,},data={20038.01959,20026.53411,},ranges={{1,2,},},type="Linear",name="z",},facing={times={0,},data={1.53945,},ranges={{1,1,},},type="LinearAngle",name="facing",},name={times={},data={},ranges={},type="Discrete",name="name",},opacity={times={},data={},ranges={},type="Linear",name="opacity",},},}
+			<slot count="1" id="10063">{timeseries={music={times={},data={},ranges={},type="Discrete",name="music",},movieblock={times={},data={},ranges={},type="Discrete",name="movieblock",},tip={times={},data={},ranges={},type="Discrete",name="tip",},time={times={},data={},ranges={},type="Linear",name="time",},cmd={times={1447,},data={"/select 19151 5 19193",},ranges={{1,1,},},type="Discrete",name="cmd",},blocks={times={},data={},ranges={{1,0,},},type="Discrete",name="blocks",},text={times={},data={},ranges={{1,0,},},type="Discrete",name="text",},},}
 			</slot>
 		</inventory>
 	</entity>
-	<entity bz="19151" bx="19222" class="EntitySign" item_id="211" by="6">
+	<entity bz="19216" bx="19240" class="EntityMovieClip" item_id="228" by="5">
+		<cmd>/t 12 /end
+		</cmd>
+		<inventory>
+			<slot count="1" id="10061">{timeseries={is_fps={times={0,577,12000,},data={0,0,0,},ranges={{1,3,},},type="Discrete",name="is_fps",},lookat_z={times={0,577,12000,},data={20004.71094,20004.71094,20004.71094,},ranges={{1,3,},},type="Linear",name="lookat_z",},eye_liftup={times={0,577,12000,},data={0.61326,0.61326,0.61326,},ranges={{1,3,},},type="Linear",name="eye_liftup",},lookat_y={times={0,577,12000,},data={-126.96276,-126.96276,-126.96276,},ranges={{1,3,},},type="Linear",name="lookat_y",},eye_dist={times={0,577,12000,},data={8,8,8,},ranges={{1,3,},},type="Linear",name="eye_dist",},has_collision={times={0,577,12000,},data={1,1,1,},ranges={{1,3,},},type="Discrete",name="has_collision",},eye_rot_y={times={0,577,12000,},data={3.13828,3.13828,3.13828,},ranges={{1,3,},},type="LinearAngle",name="eye_rot_y",},lookat_x={times={0,577,12000,},data={19950.53516,19950.53516,19950.53516,},ranges={{1,3,},},type="Linear",name="lookat_x",},},}
+			</slot>
+			<slot count="1" id="10063">{timeseries={music={times={},data={},ranges={},type="Discrete",name="music",},movieblock={times={},data={},ranges={},type="Discrete",name="movieblock",},tip={times={},data={},ranges={},type="Discrete",name="tip",},cmd={times={909,8931,11999,},data={"/select 19146 5 19199","/select 19146 5 19199 (8 0 10)","/select-clear",},ranges={{1,3,},},type="Discrete",name="cmd",},time={times={},data={},ranges={},type="Linear",name="time",},blocks={times={},data={},ranges={{1,0,},},type="Discrete",name="blocks",},text={times={176,4221,7819,},data={{fontsize=30,text="按Ctrl+左键点选方块",},{fontsize=30,text="按住Ctrl不放",},{fontsize=30,text="再按左键选中另一个方块",},},ranges={{1,3,},},type="Discrete",name="text",},},}
+			</slot>
+		</inventory>
+	</entity>
+	<entity bz="19276" bx="19240" class="EntityMovieClip" item_id="228" by="5">
+		<cmd>/t 10 /end
+		</cmd>
+		<inventory>
+			<slot count="1" id="10061">{timeseries={has_collision={times={0,1000,},data={1,1,},ranges={{1,2,},},type="Discrete",name="has_collision",},lookat_z={times={0,1000,},data={20070.10938,20070.10938,},ranges={{1,2,},},type="Linear",name="lookat_z",},eye_liftup={times={0,1000,},data={0.15709,0.15709,},ranges={{1,2,},},type="Linear",name="eye_liftup",},lookat_y={times={0,1000,},data={-126.20864,-126.20864,},ranges={{1,2,},},type="Linear",name="lookat_y",},eye_dist={times={0,1000,},data={15.49237,15.49237,},ranges={{1,2,},},type="Linear",name="eye_dist",},lookat_x={times={0,1000,},data={19951.43946,19951.43946,},ranges={{1,2,},},type="Linear",name="lookat_x",},eye_rot_y={times={0,1000,},data={-1.57276,-1.57276,},ranges={{1,2,},},type="LinearAngle",name="eye_rot_y",},is_fps={times={0,1000,},data={0,0,},ranges={{1,2,},},type="Discrete",name="is_fps",},},}
+			</slot>
+			<slot count="1" id="10063">{timeseries={music={times={},data={},ranges={},type="Discrete",name="music",},movieblock={times={},data={},ranges={},type="Discrete",name="movieblock",},tip={times={},data={},ranges={},type="Discrete",name="tip",},time={times={},data={},ranges={},type="Linear",name="time",},cmd={times={1238,3172,6294,10000,},data={"/select 19153 6 19264","/select 19153 6 19262 (1 5 4)","/export","/t 1 /select -clear",},ranges={{1,4,},},type="Discrete",name="cmd",},blocks={times={},data={},ranges={},type="Discrete",name="blocks",},text={times={},data={},ranges={},type="Discrete",name="text",},},}
+			</slot>
+		</inventory>
+	</entity>
+	<entity bz="19234" bx="19195" class="EntitySign" item_id="211" by="6">
+		<cmd><![CDATA[·
+《蝴蝶》
+难度：普通]]>
+		</cmd>
+	</entity>
+	<entity bz="19124" bx="19225" class="EntitySign" item_id="211" by="6"/>
+	<entity bz="19152" bx="19200" class="EntitySign" item_id="211" by="5">
 		<cmd><![CDATA[.
-Paracraft创意空间
-.
-基础操作]]>
+踩一下压力板]]>
+		</cmd>
+	</entity>
+	<entity bz="19206" bx="19244" class="EntitySign" item_id="211" by="6"/>
+	<entity bz="19130" bx="19231" class="EntitySign" item_id="211" by="6"/>
+	<entity bz="19145" bx="19229" class="EntitySign" item_id="211" by="6">
+		<cmd><![CDATA[.
+欢迎来到
+《一小时动画制作》
+with Paracraft]]>
+		</cmd>
+	</entity>
+	<entity bz="19188" bx="19244" class="EntitySign" item_id="211" by="6"/>
+	<entity bz="19128" bx="19231" class="EntitySign" item_id="211" by="6"/>
+	<entity bz="19167" bx="19244" class="EntitySign" item_id="211" by="6"/>
+	<entity bz="19146" bx="19229" class="EntitySign" item_id="211" by="6"/>
+	<entity bz="19166" bx="19222" class="EntitySign" item_id="211" by="6">
+		<cmd><![CDATA[.
+长按鼠标【右键】转换视角]]>
+		</cmd>
+	</entity>
+	<entity bz="19134" bx="19225" class="EntitySign" item_id="211" by="6"/>
+	<entity bz="19230" bx="19244" class="EntitySign" item_id="211" by="6"/>
+	<entity bz="19177" bx="19214" class="EntitySign" item_id="211" by="6"/>
+	<entity bz="19231" bx="19244" class="EntitySign" item_id="211" by="6">
+		<cmd><![CDATA[.
+BMAX系统
+可以用来自主创造道具或人物]]>
+		</cmd>
+	</entity>
+	<entity bz="19247" bx="19244" class="EntitySign" item_id="211" by="6"/>
+	<entity bz="19137" bx="19225" class="EntitySign" item_id="211" by="6">
+		<cmd><![CDATA[.
+电影创作练习
+【右键】点按钮]]>
+		</cmd>
+	</entity>
+	<entity bz="19216" bx="19244" class="EntitySign" item_id="211" by="6">
+		<cmd><![CDATA[.
+按Ctrl+左键选中一个方块
+按住Ctrl不放
+再按左键选中另一方块进行大面积选中]]>
 		</cmd>
 	</entity>
 	<entity bz="19147" bx="19201" class="EntitySign" item_id="211" by="6"/>
+	<entity bz="19215" bx="19244" class="EntitySign" item_id="211" by="6"/>
+	<entity bz="19190" bx="19244" class="EntitySign" item_id="211" by="6"/>
+	<entity bz="19205" bx="19244" class="EntitySign" item_id="211" by="6">
+		<cmd><![CDATA[.
+Ctrl+左键点选方块
+在属性栏中可对该方块进行各项操作]]>
+		</cmd>
+	</entity>
 	<entity bz="19149" bx="19227" class="EntitySign" item_id="211" by="6">
 		<cmd><![CDATA[.
 右键点击按钮]]>
 		</cmd>
 	</entity>
-	<entity bz="19262" bx="19195" class="EntitySign" item_id="211" by="6"/>
-	<entity bz="19150" bx="19222" class="EntitySign" item_id="211" by="6"/>
-	<entity bz="19156" bx="19222" class="EntitySign" item_id="211" by="6">
+	<entity bz="19171" bx="19222" class="EntitySign" item_id="211" by="6">
 		<cmd><![CDATA[.
-请用【W, A, S, D】键行走]]>
+按【空格】键跳跃]]>
 		</cmd>
 	</entity>
+	<entity bz="19162" bx="19222" class="EntitySign" item_id="211" by="6"/>
+	<entity bz="19167" bx="19222" class="EntitySign" item_id="211" by="6"/>
+	<entity bz="19217" bx="19244" class="EntitySign" item_id="211" by="6"/>
 	<entity bz="19159" bx="19210" class="EntitySign" item_id="211" by="7">
 		<cmd><![CDATA[.
 按【E键】, 单击选取蓝色羊毛
@@ -191,19 +348,115 @@ Paracraft创意空间
 单击【右键】在左侧创建]]>
 		</cmd>
 	</entity>
-	<entity bz="19177" bx="19214" class="EntitySign" item_id="211" by="6"/>
+	<entity bz="19161" bx="19222" class="EntitySign" item_id="211" by="6">
+		<cmd><![CDATA[.
+按住【Ctrl】键，同时滚动【鼠标滚轮】
+.
+可以缩放视角]]>
+		</cmd>
+	</entity>
+	<entity bz="19245" bx="19244" class="EntitySign" item_id="211" by="6"/>
+	<entity bz="19122" bx="19225" class="EntitySign" item_id="211" by="6"/>
+	<entity bz="19179" bx="19244" class="EntitySign" item_id="211" by="6">
+		<cmd><![CDATA[.
+【E键】工具栏介绍]]>
+		</cmd>
+	</entity>
+	<entity bz="19177" bx="19222" class="EntitySign" item_id="211" by="6"/>
+	<entity bz="19162" bx="19214" class="EntitySign" item_id="211" by="6"/>
+	<entity bz="19175" bx="19214" class="EntitySign" item_id="211" by="6"/>
+	<entity bz="19161" bx="19214" class="EntitySign" item_id="211" by="6">
+		<cmd><![CDATA[.
+单击鼠标【右键】创建方块]]>
+		</cmd>
+	</entity>
+	<entity bz="19173" bx="19210" class="EntitySign" item_id="211" by="7"/>
+	<entity bz="19260" bx="19195" class="EntitySign" item_id="211" by="6"/>
+	<entity bz="19158" bx="19210" class="EntitySign" item_id="211" by="7"/>
+	<entity bz="19157" bx="19222" class="EntitySign" item_id="211" by="6"/>
+	<entity bz="19175" bx="19222" class="EntitySign" item_id="211" by="6"/>
+	<entity bz="19136" bx="19225" class="EntitySign" item_id="211" by="6"/>
+	<entity bz="19129" bx="19225" class="EntitySign" item_id="211" by="6">
+		<cmd><![CDATA[.
+人物与骨骼系统
+【右键】点按钮]]>
+		</cmd>
+	</entity>
+	<entity bz="19189" bx="19244" class="EntitySign" item_id="211" by="6">
+		<cmd><![CDATA[.
+快速建造3个相同的方块]]>
+		</cmd>
+	</entity>
+	<entity bz="19150" bx="19222" class="EntitySign" item_id="211" by="6"/>
+	<entity bz="19160" bx="19210" class="EntitySign" item_id="211" by="7"/>
+	<entity bz="19168" bx="19244" class="EntitySign" item_id="211" by="6">
+		<cmd><![CDATA[.
+【/】可输入命令]]>
+		</cmd>
+	</entity>
+	<entity bz="19260" bx="19244" class="EntitySign" item_id="211" by="6"/>
+	<entity bz="19262" bx="19195" class="EntitySign" item_id="211" by="6"/>
+	<entity bz="19129" bx="19231" class="EntitySign" item_id="211" by="6">
+		<cmd><![CDATA[.
+请根据你剩下的时间
+做出选择
+【鼠标中建】可瞬移]]>
+		</cmd>
+	</entity>
+	<entity bz="19130" bx="19225" class="EntitySign" item_id="211" by="6"/>
+	<entity bz="19199" bx="19201" class="EntitySign" item_id="211" by="6">
+		<cmd><![CDATA[·
+参考作品]]>
+		</cmd>
+	</entity>
+	<entity bz="19178" bx="19244" class="EntitySign" item_id="211" by="6"/>
+	<entity bz="19148" bx="19201" class="EntitySign" item_id="211" by="6">
+		<cmd><![CDATA[.
+练习创建一个小房子
+【E】键打开物品栏]]>
+		</cmd>
+	</entity>
+	<entity bz="19152" bx="19222" class="EntitySign" item_id="211" by="6"/>
+	<entity bz="19120" bx="19225" class="EntitySign" item_id="211" by="6"/>
+	<entity bz="19133" bx="19225" class="EntitySign" item_id="211" by="6">
+		<cmd><![CDATA[.
+电影方块
+【右键】点按钮]]>
+		</cmd>
+	</entity>
+	<entity bz="19204" bx="19244" class="EntitySign" item_id="211" by="6"/>
+	<entity bz="19169" bx="19244" class="EntitySign" item_id="211" by="6"/>
+	<entity bz="19172" bx="19222" class="EntitySign" item_id="211" by="6"/>
+	<entity bz="19180" bx="19244" class="EntitySign" item_id="211" by="6"/>
+	<entity bz="19125" bx="19225" class="EntitySign" item_id="211" by="6">
+		<cmd><![CDATA[.
+高级3D创作
+【右键】点按钮]]>
+		</cmd>
+	</entity>
 	<entity bz="19169" bx="19210" class="EntitySign" item_id="211" by="7">
 		<cmd><![CDATA[.
 结果示例
 【Ctrl+Y】复原]]>
 		</cmd>
 	</entity>
-	<entity bz="19157" bx="19222" class="EntitySign" item_id="211" by="6"/>
-	<entity bz="19173" bx="19210" class="EntitySign" item_id="211" by="7"/>
 	<entity bz="19199" bx="19195" class="EntitySign" item_id="211" by="6">
 		<cmd><![CDATA[·
 《我和小伙伴》
 难度：普通]]>
+		</cmd>
+	</entity>
+	<entity bz="19155" bx="19222" class="EntitySign" item_id="211" by="6"/>
+	<entity bz="19156" bx="19222" class="EntitySign" item_id="211" by="6">
+		<cmd><![CDATA[.
+请用【W, A, S, D】键行走]]>
+		</cmd>
+	</entity>
+	<entity bz="19132" bx="19225" class="EntitySign" item_id="211" by="6"/>
+	<entity bz="19176" bx="19222" class="EntitySign" item_id="211" by="6">
+		<cmd><![CDATA[.
+按【F】键飞行/降落
+【X】下降, 【空格】上升]]>
 		</cmd>
 	</entity>
 	<entity bz="19261" bx="19195" class="EntitySign" item_id="211" by="6">
@@ -212,67 +465,7 @@ Paracraft创意空间
 难度：困难]]>
 		</cmd>
 	</entity>
-	<entity bz="19155" bx="19222" class="EntitySign" item_id="211" by="6"/>
-	<entity bz="19167" bx="19222" class="EntitySign" item_id="211" by="6"/>
-	<entity bz="19175" bx="19210" class="EntitySign" item_id="211" by="7"/>
-	<entity bz="19171" bx="19222" class="EntitySign" item_id="211" by="6">
-		<cmd><![CDATA[.
-按【空格】键跳跃]]>
-		</cmd>
-	</entity>
-	<entity bz="19145" bx="19229" class="EntitySign" item_id="211" by="6">
-		<cmd><![CDATA[.
-欢迎来到
-《一小时动画制作》
-with Paracraft]]>
-		</cmd>
-	</entity>
-	<entity bz="19147" bx="19213" class="EntitySign" item_id="211" by="6">
-		<cmd><![CDATA[·
-【右键】
-点击按钮]]>
-		</cmd>
-	</entity>
-	<entity bz="19162" bx="19214" class="EntitySign" item_id="211" by="6"/>
-	<entity bz="19161" bx="19222" class="EntitySign" item_id="211" by="6">
-		<cmd><![CDATA[.
-按住【Ctrl】键，同时滚动【鼠标滚轮】
-.
-可以缩放视角]]>
-		</cmd>
-	</entity>
-	<entity bz="19149" bx="19201" class="EntitySign" item_id="211" by="6"/>
-	<entity bz="19170" bx="19222" class="EntitySign" item_id="211" by="6"/>
-	<entity bz="19161" bx="19214" class="EntitySign" item_id="211" by="6">
-		<cmd><![CDATA[.
-单击鼠标【右键】创建方块]]>
-		</cmd>
-	</entity>
-	<entity bz="19234" bx="19195" class="EntitySign" item_id="211" by="6">
-		<cmd><![CDATA[·
-《蝴蝶》
-难度：普通]]>
-		</cmd>
-	</entity>
-	<entity bz="19175" bx="19214" class="EntitySign" item_id="211" by="6"/>
-	<entity bz="19175" bx="19222" class="EntitySign" item_id="211" by="6"/>
-	<entity bz="19177" bx="19222" class="EntitySign" item_id="211" by="6"/>
-	<entity bz="19199" bx="19201" class="EntitySign" item_id="211" by="6">
-		<cmd><![CDATA[·
-参考作品]]>
-		</cmd>
-	</entity>
-	<entity bz="19148" bx="19201" class="EntitySign" item_id="211" by="6">
-		<cmd><![CDATA[.
-练习创建一个小房子
-【E】键打开物品栏]]>
-		</cmd>
-	</entity>
-	<entity bz="19260" bx="19195" class="EntitySign" item_id="211" by="6"/>
-	<entity bz="19144" bx="19229" class="EntitySign" item_id="211" by="6"/>
-	<entity bz="19160" bx="19210" class="EntitySign" item_id="211" by="7"/>
-	<entity bz="19162" bx="19222" class="EntitySign" item_id="211" by="6"/>
-	<entity bz="19152" bx="19222" class="EntitySign" item_id="211" by="6"/>
+	<entity bz="19138" bx="19225" class="EntitySign" item_id="211" by="6"/>
 	<entity bz="19154" bx="19210" class="EntitySign" item_id="211" by="7">
 		<cmd><![CDATA[.
 结果示例
@@ -280,38 +473,82 @@ with Paracraft]]>
 吸取方块]]>
 		</cmd>
 	</entity>
-	<entity bz="19176" bx="19222" class="EntitySign" item_id="211" by="6">
+	<entity bz="19158" bx="19200" class="EntitySign" item_id="211" by="6"/>
+	<entity bz="19261" bx="19244" class="EntitySign" item_id="211" by="6">
 		<cmd><![CDATA[.
-按【F】键飞行/降落
-【X】下降, 【空格】上升]]>
+绑定骨骼可以赋予BMAX动作]]>
 		</cmd>
 	</entity>
-	<entity bz="19146" bx="19229" class="EntitySign" item_id="211" by="6"/>
-	<entity bz="19165" bx="19222" class="EntitySign" item_id="211" by="6"/>
-	<entity bz="19166" bx="19222" class="EntitySign" item_id="211" by="6">
+	<entity bz="19121" bx="19225" class="EntitySign" item_id="211" by="6">
 		<cmd><![CDATA[.
-长按鼠标【右键】转换视角]]>
+教学视频
+http://www.paracraft.cn]]>
 		</cmd>
 	</entity>
-	<entity bz="19172" bx="19222" class="EntitySign" item_id="211" by="6"/>
-	<entity bz="19160" bx="19222" class="EntitySign" item_id="211" by="6"/>
+	<entity bz="19176" bx="19214" class="EntitySign" item_id="211" by="6">
+		<cmd><![CDATA[.
+单击鼠标【左键】消除方块]]>
+		</cmd>
+	</entity>
+	<entity bz="19170" bx="19222" class="EntitySign" item_id="211" by="6"/>
+	<entity bz="19163" bx="19244" class="EntitySign" item_id="211" by="6">
+		<cmd><![CDATA[.
+高级创作]]>
+		</cmd>
+	</entity>
+	<entity bz="19162" bx="19244" class="EntitySign" item_id="211" by="6"/>
+	<entity bz="19246" bx="19244" class="EntitySign" item_id="211" by="6">
+		<cmd><![CDATA[.
+用BMAX创造一个简单的小玩意]]>
+		</cmd>
+	</entity>
+	<entity bz="19144" bx="19229" class="EntitySign" item_id="211" by="6"/>
+	<entity bz="19277" bx="19244" class="EntitySign" item_id="211" by="6"/>
+	<entity bz="19275" bx="19244" class="EntitySign" item_id="211" by="6"/>
+	<entity bz="19276" bx="19244" class="EntitySign" item_id="211" by="6">
+		<cmd><![CDATA[.
+将BMAX保存成模板]]>
+		</cmd>
+	</entity>
+	<entity bz="19262" bx="19244" class="EntitySign" item_id="211" by="6"/>
 	<entity bz="19142" bx="19207" class="EntitySign" item_id="211" by="6">
 		<cmd><![CDATA[.
 可选任务
 【Ctrl+F1】]]>
 		</cmd>
 	</entity>
-	<entity bz="19158" bx="19210" class="EntitySign" item_id="211" by="7"/>
-	<entity bz="19160" bx="19214" class="EntitySign" item_id="211" by="6"/>
+	<entity bz="19175" bx="19210" class="EntitySign" item_id="211" by="7"/>
+	<entity bz="19157" bx="19200" class="EntitySign" item_id="211" by="6">
+		<cmd><![CDATA[.
+【右键】点击按钮
+继续学习]]>
+		</cmd>
+	</entity>
+	<entity bz="19128" bx="19225" class="EntitySign" item_id="211" by="6"/>
+	<entity bz="19160" bx="19222" class="EntitySign" item_id="211" by="6"/>
 	<entity bz="19174" bx="19210" class="EntitySign" item_id="211" by="7">
 		<cmd><![CDATA[.
 请将左侧的蓝色方块消除
 【Ctrl+Z】撤销]]>
 		</cmd>
 	</entity>
-	<entity bz="19176" bx="19214" class="EntitySign" item_id="211" by="6">
+	<entity bz="19149" bx="19201" class="EntitySign" item_id="211" by="6"/>
+	<entity bz="19160" bx="19214" class="EntitySign" item_id="211" by="6"/>
+	<entity bz="19232" bx="19244" class="EntitySign" item_id="211" by="6"/>
+	<entity bz="19165" bx="19222" class="EntitySign" item_id="211" by="6"/>
+	<entity bz="19147" bx="19213" class="EntitySign" item_id="211" by="6">
+		<cmd><![CDATA[·
+【右键】
+点击按钮]]>
+		</cmd>
+	</entity>
+	<entity bz="19126" bx="19225" class="EntitySign" item_id="211" by="6"/>
+	<entity bz="19164" bx="19244" class="EntitySign" item_id="211" by="6"/>
+	<entity bz="19151" bx="19222" class="EntitySign" item_id="211" by="6">
 		<cmd><![CDATA[.
-单击鼠标【左键】消除方块]]>
+Paracraft创意空间
+.
+基础操作]]>
 		</cmd>
 	</entity>
 </entities>
