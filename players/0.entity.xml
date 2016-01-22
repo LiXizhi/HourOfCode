@@ -1,35 +1,48 @@
 
-<entity motionX="0" onGround="true" item_id="30002" class="Player" motionY="0" displayName="0" bz="19200" motionZ="0" bx="19202" facing="-3.0990166664124" name="default" anim="Create" by="5">
-	<inventory handtool_bagpos="1">
-		<slot id="105" count="1"/>
-		<slot id="99" count="1"/>
-		<slot id="129" count="1"/>
-		<slot id="27" count="5"/>
-		<slot id="254" count="1">{tooltip="blocktemplates/man.bmax",}
+<entity bz="19160" motionZ="0" anim="Break" displayName="0" class="Player" item_id="30002" onGround="true" bx="19200" facing="-1.6652941703796" motionX="0" by="5" name="default" motionY="0">
+	<inventory handtool_bagpos="3">
+		<slot count="1" id="112"/>
+		<slot count="1" id="81"/>
+		<slot count="1" id="155"/>
+		<slot count="1" id="98"/>
+		<slot count="1" id="70"/>
+		<slot count="1" id="95"/>
+		<slot count="1" id="62"/>
+		<slot count="1" id="133"/>
+		<slot count="1" id="171"/>
+		<slot count="3" id="101"/>
+		<slot count="6" id="189"/>
+		<slot count="1" id="197"/>
+		<slot count="1" id="201"/>
+		<slot count="1" id="10"/>
+		<slot count="5" id="253"/>
+		<slot count="8" id="228"/>
+		<slot count="5" id="70"/>
+		<slot count="2" id="254">{tooltip="blocktemplates/man.bmax",}
 		</slot>
-		<slot id="19" count="3"/>
-		<slot id="10" count="1"/>
-		<slot id="27" count="3"/>
-		<slot id="199" count="1"/>
-		<slot id="101" count="2"/>
-		<slot id="189" count="2"/>
-		<slot id="197" count="1"/>
-		<slot id="201" count="1"/>
-		<slot id="10" count="1"/>
-		<slot id="253" count="5"/>
-		<slot id="228" count="5"/>
-		<slot id="70" count="4"/>
-		<slot id="254" count="1">{tooltip="blocktemplates/man.bmax",}
+		<slot count="4" id="27"/>
+		<slot count="8" id="62"/>
+		<slot count="6" id="23"/>
+		<slot count="1" id="254">{tooltip="blocktemplates/mouth.bmax",}
 		</slot>
-		<slot id="27" count="4"/>
-		<slot id="62" count="5"/>
-		<slot id="23" count="4"/>
-		<slot id="254" count="1">{tooltip="blocktemplates/mouth.bmax",}
+		<slot count="7" id="19"/>
+		<slot count="8" id="105"/>
+		<slot count="4" id="255"/>
+		<slot count="2" id="211"/>
+		<slot count="1" id="94"/>
+		<slot count="5" id="21"/>
+		<slot count="3" id="10059">/t 30 /end
 		</slot>
-		<slot id="19" count="1"/>
-		<slot id="105" count="2"/>
-		<slot id="255" count="2"/>
-		<slot id="211" count="2"/>
+		<slot count="1" id="211">{tooltip=".\r\nParacraft创意空间\r\n.\r\n基础操作",}
+		</slot>
+		<slot count="1" id="10059"/>
+		<slot count="2" id="212"/>
+		<slot count="1" id="102"/>
+		<slot count="1" id="211">{tooltip=".\r\n练习创建一个小房子\r\n【E】键打开物品栏",}
+		</slot>
+		<slot count="1" id="211">{tooltip="·\r\n【Ctrl+F1】\r\n帮助界面",}
+		</slot>
+		<slot count="1" id="99"/>
 	</inventory>
 	<abilities/>
 </entity>

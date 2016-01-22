@@ -1,4 +1,4 @@
 
 <pe:mcml>
-	<pe:world nid="0" shadow="" rendermethod="" texture_pack_url="http://www.paraengine.com/twiki/pub/CCWeb/RecommendedTextureListData/Paracraft32xMixed.zip" texture_pack_text="混搭材质包" totaltime="0" texture_pack_path="worlds/BlockTextures/official/Paracraft32xMixed_r1.zip" desc="" texture_pack_type="official" renderdist="" name="HourOfCode" seed="HourOfCode" waterreflection="" create_date="2016-1-16" world_generator="superflat" size="0"/>
+	<pe:world seed="HourOfCode" world_generator="superflat" size="0" texture_pack_text="混搭材质包" texture_pack_url="http://www.paraengine.com/twiki/pub/CCWeb/RecommendedTextureListData/Paracraft32xMixed.zip" nid="0" create_date="2016-1-16" texture_pack_type="official" desc="" texture_pack_path="worlds/BlockTextures/official/Paracraft32xMixed_r1.zip" rendermethod="" renderdist="" waterreflection="" totaltime="0" name="HourOfCode" shadow=""/>
 </pe:mcml>
