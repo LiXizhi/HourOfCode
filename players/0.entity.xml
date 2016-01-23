@@ -1,50 +1,13 @@
 
-<entity bz="19166" motionZ="0" anim="Break" displayName="0" class="Player" item_id="30002" onGround="true" bx="19246" facing="2.1236915588379" motionX="0" by="5" name="default" motionY="0">
-	<inventory handtool_bagpos="2">
-		<slot count="1" id="112"/>
-		<slot count="1" id="211">{tooltip=".\r\n将BMAX保存成模板",}
-		</slot>
-		<slot count="1" id="105"/>
-		<slot count="1" id="98"/>
-		<slot count="2" id="70"/>
+<entity bz="19213" motionZ="0" anim="RaiseTerrain" displayName="0" class="Player" item_id="30002" onGround="true" bx="19246" facing="-2.100418806076" motionX="0" by="5" name="default" motionY="0">
+	<inventory handtool_bagpos="3">
+		<slot count="1" id="87"/>
 		<slot count="1" id="255"/>
-		<slot count="2" id="23"/>
-		<slot count="1" id="62"/>
-		<slot count="1" id="211">{tooltip="·\r\n《我和小伙伴》\r\n难度：普通",}
-		</slot>
-		<slot count="3" id="101"/>
-		<slot count="9" id="189"/>
-		<slot count="1" id="197"/>
-		<slot count="1" id="201"/>
-		<slot count="1" id="10"/>
-		<slot count="5" id="253"/>
-		<slot count="9" id="228"/>
-		<slot count="5" id="70"/>
-		<slot count="2" id="254">{tooltip="blocktemplates/man.bmax",}
-		</slot>
-		<slot count="21" id="27"/>
-		<slot count="10" id="62"/>
-		<slot count="11" id="23"/>
-		<slot count="1" id="254">{tooltip="blocktemplates/mouth.bmax",}
-		</slot>
-		<slot count="13" id="19"/>
-		<slot count="12" id="105"/>
-		<slot count="12" id="255"/>
-		<slot count="4" id="211"/>
-		<slot count="1" id="94"/>
-		<slot count="8" id="21"/>
-		<slot count="3" id="10059">/t 30 /end
-		</slot>
-		<slot count="1" id="211">{tooltip=".\r\nParacraft创意空间\r\n.\r\n基础操作",}
-		</slot>
-		<slot count="1" id="10059"/>
-		<slot count="8" id="212"/>
-		<slot count="3" id="102"/>
-		<slot count="1" id="211">{tooltip=".\r\n练习创建一个小房子\r\n【E】键打开物品栏",}
-		</slot>
-		<slot count="1" id="211">{tooltip="·\r\n【Ctrl+F1】\r\n帮助界面",}
-		</slot>
-		<slot count="1" id="99"/>
+		<slot count="1" id="23"/>
+		<slot count="1" id="52"/>
+		<slot count="1" id="5"/>
+		<slot count="1" id="27"/>
+		<slot count="1" id="135"/>
 	</inventory>
 	<abilities/>
 </entity>

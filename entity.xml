@@ -12,7 +12,8 @@
 		<cmd><![CDATA[/mode edit
 /lookat -1 ~ ~
 /tip 欢迎来到<一小时动画制作>
-/tip W,A,S,D键行走]]>
+/tip W,A,S,D键行走
+/clearbag]]>
 		</cmd>
 	</entity>
 	<entity filename="" IsSimulatedSky="true" rainStrength="0" snowStrength="0" class="EntitySky" name="sky"/>
