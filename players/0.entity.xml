@@ -1,13 +1,4 @@
 
-<entity bz="19213" motionZ="0" anim="RaiseTerrain" displayName="0" class="Player" item_id="30002" onGround="true" bx="19246" facing="-2.100418806076" motionX="0" by="5" name="default" motionY="0">
-	<inventory handtool_bagpos="3">
-		<slot count="1" id="87"/>
-		<slot count="1" id="255"/>
-		<slot count="1" id="23"/>
-		<slot count="1" id="52"/>
-		<slot count="1" id="5"/>
-		<slot count="1" id="27"/>
-		<slot count="1" id="135"/>
-	</inventory>
+<entity bz="19307" motionZ="0" anim="RaiseTerrain" displayName="0" class="Player" item_id="30002" onGround="true" bx="19239" facing="-2.1475787162781" motionX="0" by="5" name="default" motionY="0">
 	<abilities/>
 </entity>
