@@ -1,13 +1,5 @@
 
 <entities file_version="0.1">
-	<entity bz="19147" bx="19227" name="player_spawn_point" class="EntityHomePoint" item_id="20002" by="5">
-		<cmd><![CDATA[/mode edit
-/lookat -1 ~ ~
-/tip 欢迎来到<一小时动画制作>
-/tip W,A,S,D键行走
-/clearbag]]>
-		</cmd>
-	</entity>
 	<entity filename="" IsSimulatedSky="true" rainStrength="0" snowStrength="0" class="EntitySky" name="sky"/>
 	<entity class="EntityDesktop" name="desktop">
 		<inventory>
@@ -16,5 +8,13 @@
 			<slot count="1" id="10060">{"http://bbs.paraengine.com/forum.php?mod=forumdisplay&amp;fid=50",tooltip="到论坛支持作者 给作者留言[bbs]",}
 			</slot>
 		</inventory>
+	</entity>
+	<entity bz="19147" bx="19227" name="player_spawn_point" class="EntityHomePoint" item_id="20002" by="5">
+		<cmd><![CDATA[/mode edit
+/lookat -1 ~ ~
+/tip 欢迎来到<一小时动画制作>
+/tip W,A,S,D键行走
+/clearbag]]>
+		</cmd>
 	</entity>
 </entities>

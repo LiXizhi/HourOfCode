@@ -1,0 +1,5 @@
+
+<pe:blocktemplate>
+	<pe:blocks>{{-3,2,-5,10,873,},{-4,2,-4,10,873,},{-3,2,-4,253,4,{name="entity",attr={bz=19250,bx=19258,pz=0,py=0,class="EntityBlockBone",by=7,item_id=253,px=0,},},},{-2,2,-4,10,873,},{-3,3,-4,10,873,},{-3,4,-4,253,4,{name="entity",attr={bz=19250,bx=19258,pz=0,py=0,class="EntityBlockBone",by=9,item_id=253,px=0,},},},{-3,4,-3,10,2484,},{-3,5,-4,94,},{-3,5,-3,10,2484,},{-3,6,-4,253,4,{name="entity",attr={bz=19250,bx=19258,pz=0,py=0,class="EntityBlockBone",by=11,item_id=253,px=0,},},},{-3,6,-3,253,2,{{name="cmd","wheel",},name="entity",attr={bz=19251,bx=19258,pz=0,py=0,class="EntityBlockBone",by=11,item_id=253,px=0,},},},{-4,6,-3,10,2484,},{-2,6,-3,10,2484,},{-3,7,-3,10,2484,},{-5,6,-3,10,2484,},{-1,6,-3,10,2484,},{-3,8,-3,10,2484,},}
+	</pe:blocks>
+</pe:blocktemplate>
