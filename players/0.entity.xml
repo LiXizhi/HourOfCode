@@ -1,16 +1,4 @@
 
-<entity bz="19172" motionZ="0" anim="Create" displayName="0" class="Player" item_id="30002" onGround="true" bx="19266" facing="2.9833211898804" motionX="0" by="5" name="default" motionY="0">
-	<inventory handtool_bagpos="8">
-		<slot count="4" id="255"/>
-		<slot count="6" id="23"/>
-		<slot count="1" id="171"/>
-		<slot count="5" id="27"/>
-		<slot count="1" id="19"/>
-		<slot count="1" id="211">{tooltip="在上方平台上创建模型\r\n然后点击下方平台的按钮\r\n【Alt + 左键】拾取",}
-		</slot>
-		<slot count="1" id="27"/>
-		<slot count="1" id="189"/>
-		<slot count="2" id="21"/>
-	</inventory>
+<entity motionX="0" onGround="true" item_id="30002" class="Player" motionY="0" displayName="0" bz="19147" motionZ="0" bx="19230" facing="3.8068509101868" name="default" anim="Create" by="5">
 	<abilities/>
 </entity>

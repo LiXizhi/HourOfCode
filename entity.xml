@@ -1,20 +1,20 @@
 
 <entities file_version="0.1">
-	<entity filename="" IsSimulatedSky="true" rainStrength="0" snowStrength="0" class="EntitySky" name="sky"/>
-	<entity class="EntityDesktop" name="desktop">
-		<inventory>
-			<slot count="1" id="10052">{"欢迎来到我的世界#请仔细阅读规则#=到创意论坛来支持我的作品哦~=#[[http://www.paracraft.cn/][点我进入论坛]]",tooltip="作者的话",}
-			</slot>
-			<slot count="1" id="10060">{"http://bbs.paraengine.com/forum.php?mod=forumdisplay&amp;fid=50",tooltip="到论坛支持作者 给作者留言[bbs]",}
-			</slot>
-		</inventory>
-	</entity>
-	<entity bz="19147" bx="19227" name="player_spawn_point" class="EntityHomePoint" item_id="20002" by="5">
+	<entity filename="" name="sky" IsSimulatedSky="true" class="EntitySky" snowStrength="0" rainStrength="0"/>
+	<entity bz="19147" bx="19227" by="5" item_id="20002" class="EntityHomePoint" name="player_spawn_point">
 		<cmd><![CDATA[/mode edit
 /lookat -1 ~ ~
 /tip 欢迎来到<一小时动画制作>
 /tip W,A,S,D键行走
 /clearbag]]>
 		</cmd>
+	</entity>
+	<entity class="EntityDesktop" name="desktop">
+		<inventory>
+			<slot id="10052" count="1">{"欢迎来到我的世界#请仔细阅读规则#=到创意论坛来支持我的作品哦~=#[[http://www.paracraft.cn/][点我进入论坛]]",tooltip="作者的话",}
+			</slot>
+			<slot id="10060" count="1">{"http://bbs.paraengine.com/forum.php?mod=forumdisplay&amp;fid=50",tooltip="到论坛支持作者 给作者留言[bbs]",}
+			</slot>
+		</inventory>
 	</entity>
 </entities>
